@@ -1,0 +1,28 @@
+from sys import stdin
+
+H, T = list(map(int, stdin.readline().split()))
+
+while (H, T) != (0, 0):
+    # Cut as many H as possible.
+    S = H // 2
+    H %= 2
+
+    if H and not T:
+        print(-1)
+
+    else:
+        # 'Uncut' the last H (if necessary).
+        T += 2 * H
+        S -= H
+
+        # Add T until dividable by 4.
+        t = -T % 4
+        T += t
+        S += t
+
+        # Cut all T (3 cuts per 4 T).
+        S += 3 * T // 4
+
+        print(S)
+
+    H, T = list(map(int, stdin.readline().split()))
