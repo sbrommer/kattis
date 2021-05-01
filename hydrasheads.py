@@ -4,8 +4,7 @@ H, T = list(map(int, stdin.readline().split()))
 
 while (H, T) != (0, 0):
     # Cut as many H as possible.
-    S = H // 2
-    H %= 2
+    S, H = divmod(H, 2)
 
     if H and not T:
         print(-1)
@@ -15,7 +14,7 @@ while (H, T) != (0, 0):
         T += 2 * H
         S -= H
 
-        # Add T until dividable by 4.
+        # Add T until divisible by 4.
         t = -T % 4
         T += t
         S += t
