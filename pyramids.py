@@ -1,12 +1,12 @@
-from sys import stdin
+N = int(open(0).readline())
 
-N = int(stdin.readline())
+def blocks(level):
+    return (2 * level - 1) ** 2
 
-blocks = 0
-for i in range(1, 1000, 2):
-    print('side', i, 'area', i**2)
-    blocks += i ** 2
-    print('blocks', blocks, 'height', i / 2)
-    if blocks > N:
-        print(i / 2)
-        break
+level = 0
+
+while blocks(level + 1) <= N:
+    level += 1
+    N -= blocks(level)
+
+print(level)
