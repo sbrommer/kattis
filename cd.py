@@ -1,18 +1,20 @@
-import sys
+o = open(0)
 
-line = sys.stdin.readline()
 
-while line != '0 0\n':
-    (n, m) = map(int, line.split())
+def readnm():
+    return map(int, o.readline().split())
 
-    jack = set()
-    for _ in range(n):
-        jack.add(int(sys.stdin.readline()))
 
-    jill = set()
-    for _ in range(m):
-        jill.add(int(sys.stdin.readline()))
+def readcd():
+    return int(o.readline())
+
+
+n, m = readnm()
+
+while (n, m) != (0, 0):
+    jack = set(readcd() for _ in range(n))
+    jill = set(readcd() for _ in range(m))
 
     print(len(jack & jill))
 
-    line = sys.stdin.readline()
+    n, m = readnm()
