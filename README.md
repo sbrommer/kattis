@@ -108,6 +108,7 @@
 |[eventplanning](https://open.kattis.com/problems/eventplanning)|[Python3](https://github.com/sbrommer/kattis/blob/main/eventplanning.py)|
 |[everywhere](https://open.kattis.com/problems/everywhere)|[Python3](https://github.com/sbrommer/kattis/blob/main/everywhere.py)|
 |[exam](https://open.kattis.com/problems/exam)|[Python3](https://github.com/sbrommer/kattis/blob/main/exam.py)|
+|[exoplanetlighthouse](https://open.kattis.com/problems/exoplanetlighthouse)|[Python3](https://github.com/sbrommer/kattis/blob/main/exoplanetlighthouse.py)|
 |[expectedearnings](https://open.kattis.com/problems/expectedearnings)|[Python3](https://github.com/sbrommer/kattis/blob/main/expectedearnings.py)|
 |[eyeofsauron](https://open.kattis.com/problems/eyeofsauron)|[Python3](https://github.com/sbrommer/kattis/blob/main/eyeofsauron.py)|
 |[faktor](https://open.kattis.com/problems/faktor)|[Python3](https://github.com/sbrommer/kattis/blob/main/faktor.py)|
