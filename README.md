@@ -128,6 +128,7 @@
 |[functionalfun](https://open.kattis.com/problems/functionalfun)|[Python3](https://github.com/sbrommer/kattis/blob/main/functionalfun.py)|
 |[fyi](https://open.kattis.com/problems/fyi)|[Python3](https://github.com/sbrommer/kattis/blob/main/fyi.py)|
 |[gcvwr](https://open.kattis.com/problems/gcvwr)|[Python3](https://github.com/sbrommer/kattis/blob/main/gcvwr.py)|
+|[geneblock](https://open.kattis.com/problems/geneblock)|[Python3](https://github.com/sbrommer/kattis/blob/main/geneblock.py)|
 |[gerrymandering](https://open.kattis.com/problems/gerrymandering)|[Python3](https://github.com/sbrommer/kattis/blob/main/gerrymandering.py)|
 |[glitchbot](https://open.kattis.com/problems/glitchbot)|[Python3](https://github.com/sbrommer/kattis/blob/main/glitchbot.py)|
 |[goatrope](https://open.kattis.com/problems/goatrope)|[Python3](https://github.com/sbrommer/kattis/blob/main/goatrope.py)|
