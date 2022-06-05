@@ -145,6 +145,7 @@
 |[hangman](https://open.kattis.com/problems/hangman)|[Python3](https://github.com/sbrommer/kattis/blob/main/hangman.py)|
 |[harshadnumbers](https://open.kattis.com/problems/harshadnumbers)|[Python3](https://github.com/sbrommer/kattis/blob/main/harshadnumbers.py)|
 |[haypoints](https://open.kattis.com/problems/haypoints)|[Python3](https://github.com/sbrommer/kattis/blob/main/haypoints.py)|
+|[headguard](https://open.kattis.com/problems/headguard)|[Python3](https://github.com/sbrommer/kattis/blob/main/headguard.py)|
 |[heartrate](https://open.kattis.com/problems/heartrate)|[Python3](https://github.com/sbrommer/kattis/blob/main/heartrate.py)|
 |[heimavinna](https://open.kattis.com/problems/heimavinna)|[Python3](https://github.com/sbrommer/kattis/blob/main/heimavinna.py)|
 |[heirsdilemma](https://open.kattis.com/problems/heirsdilemma)|[Python3](https://github.com/sbrommer/kattis/blob/main/heirsdilemma.py)|
