@@ -339,6 +339,7 @@
 |[trainpassengers](https://open.kattis.com/problems/trainpassengers)|[Python3](https://github.com/sbrommer/kattis/blob/main/trainpassengers.py)|
 |[transitwoes](https://open.kattis.com/problems/transitwoes)|[Python3](https://github.com/sbrommer/kattis/blob/main/transitwoes.py)|
 |[tri](https://open.kattis.com/problems/tri)|[Python3](https://github.com/sbrommer/kattis/blob/main/tri.py)|
+|[triangleornaments](https://open.kattis.com/problems/triangleornaments)|[Python3](https://github.com/sbrommer/kattis/blob/main/triangleornaments.py)|
 |[triarea](https://open.kattis.com/problems/triarea)|[Python3](https://github.com/sbrommer/kattis/blob/main/triarea.py)|
 |[trik](https://open.kattis.com/problems/trik)|[Python3](https://github.com/sbrommer/kattis/blob/main/trik.py)|
 |[tripletexting](https://open.kattis.com/problems/tripletexting)|[Python3](https://github.com/sbrommer/kattis/blob/main/tripletexting.py)|
