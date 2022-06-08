@@ -354,6 +354,7 @@
 |[veci](https://open.kattis.com/problems/veci)|[Python3](https://github.com/sbrommer/kattis/blob/main/veci.py)|
 |[videospeedup](https://open.kattis.com/problems/videospeedup)|[Python3](https://github.com/sbrommer/kattis/blob/main/videospeedup.py)|
 |[volim](https://open.kattis.com/problems/volim)|[Python3](https://github.com/sbrommer/kattis/blob/main/volim.py)|
+|[watchdog](https://open.kattis.com/problems/watchdog)|[Python3](https://github.com/sbrommer/kattis/blob/main/watchdog.py)|
 |[weakvertices](https://open.kattis.com/problems/weakvertices)|[Python3](https://github.com/sbrommer/kattis/blob/main/weakvertices.py)|
 |[whatdoesthefoxsay](https://open.kattis.com/problems/whatdoesthefoxsay)|[Python3](https://github.com/sbrommer/kattis/blob/main/whatdoesthefoxsay.py)|
 |[whichisgreater](https://open.kattis.com/problems/whichisgreater)|[Python3](https://github.com/sbrommer/kattis/blob/main/whichisgreater.py)|
