@@ -82,6 +82,7 @@
 |[dasblinkenlights](https://open.kattis.com/problems/dasblinkenlights)|[Python3](https://github.com/sbrommer/kattis/blob/main/dasblinkenlights.py)|
 |[datum](https://open.kattis.com/problems/datum)|[Python3](https://github.com/sbrommer/kattis/blob/main/datum.py)|
 |[deathknight](https://open.kattis.com/problems/deathknight)|[Python3](https://github.com/sbrommer/kattis/blob/main/deathknight.py)|
+|[deathstar](https://open.kattis.com/problems/deathstar)|[Python3](https://github.com/sbrommer/kattis/blob/main/deathstar.py)|
 |[detaileddifferences](https://open.kattis.com/problems/detaileddifferences)|[Python3](https://github.com/sbrommer/kattis/blob/main/detaileddifferences.py)|
 |[dicecup](https://open.kattis.com/problems/dicecup)|[Python3](https://github.com/sbrommer/kattis/blob/main/dicecup.py)|
 |[dicegame](https://open.kattis.com/problems/dicegame)|[Python3](https://github.com/sbrommer/kattis/blob/main/dicegame.py)|
