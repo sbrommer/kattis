@@ -193,6 +193,7 @@
 |[lineup](https://open.kattis.com/problems/lineup)|[Python3](https://github.com/sbrommer/kattis/blob/main/lineup.py)|
 |[locustlocus](https://open.kattis.com/problems/locustlocus)|[Python3](https://github.com/sbrommer/kattis/blob/main/locustlocus.py)|
 |[logicfunctions](https://open.kattis.com/problems/logicfunctions)|[C++](https://github.com/sbrommer/kattis/blob/main/logicfunctions.cpp)|
+|[logo](https://open.kattis.com/problems/logo)|[C++](https://github.com/sbrommer/kattis/blob/main/logo.cpp)|
 |[loorolls](https://open.kattis.com/problems/loorolls)|[Python3](https://github.com/sbrommer/kattis/blob/main/loorolls.py)|
 |[lostlineup](https://open.kattis.com/problems/lostlineup)|[Python3](https://github.com/sbrommer/kattis/blob/main/lostlineup.py)|
 |[luhnchecksum](https://open.kattis.com/problems/luhnchecksum)|[Python3](https://github.com/sbrommer/kattis/blob/main/luhnchecksum.py)|
