@@ -241,6 +241,7 @@
 |[pauleigon](https://open.kattis.com/problems/pauleigon)|[Python3](https://github.com/sbrommer/kattis/blob/main/pauleigon.py)|
 |[peg](https://open.kattis.com/problems/peg)|[Python3](https://github.com/sbrommer/kattis/blob/main/peg.py)|
 |[peragrams](https://open.kattis.com/problems/peragrams)|[Python3](https://github.com/sbrommer/kattis/blob/main/peragrams.py)|
+|[permutedarithmeticsequence](https://open.kattis.com/problems/permutedarithmeticsequence)|[Python3](https://github.com/sbrommer/kattis/blob/main/permutedarithmeticsequence.py)|
 |[pervasiveheartmonitor](https://open.kattis.com/problems/pervasiveheartmonitor)|[Python3](https://github.com/sbrommer/kattis/blob/main/pervasiveheartmonitor.py)|
 |[pet](https://open.kattis.com/problems/pet)|[Python3](https://github.com/sbrommer/kattis/blob/main/pet.py)|
 |[phonelist](https://open.kattis.com/problems/phonelist)|[Python3](https://github.com/sbrommer/kattis/blob/main/phonelist.py)|
