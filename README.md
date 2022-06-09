@@ -222,6 +222,7 @@
 |[nodup](https://open.kattis.com/problems/nodup)|[Python3](https://github.com/sbrommer/kattis/blob/main/nodup.py)|
 |[nsum](https://open.kattis.com/problems/nsum)|[Python3](https://github.com/sbrommer/kattis/blob/main/nsum.py)|
 |[numberfun](https://open.kattis.com/problems/numberfun)|[Python3](https://github.com/sbrommer/kattis/blob/main/numberfun.py)|
+|[numbertree](https://open.kattis.com/problems/numbertree)|[Python3](https://github.com/sbrommer/kattis/blob/main/numbertree.py)|
 |[oddecho](https://open.kattis.com/problems/oddecho)|[Python3](https://github.com/sbrommer/kattis/blob/main/oddecho.py)|
 |[oddgnome](https://open.kattis.com/problems/oddgnome)|[Python3](https://github.com/sbrommer/kattis/blob/main/oddgnome.py)|
 |[oddities](https://open.kattis.com/problems/oddities)|[Python3](https://github.com/sbrommer/kattis/blob/main/oddities.py)|
