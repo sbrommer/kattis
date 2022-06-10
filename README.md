@@ -221,6 +221,7 @@
 |[nastyhacks](https://open.kattis.com/problems/nastyhacks)|[Python3](https://github.com/sbrommer/kattis/blob/main/nastyhacks.py)|
 |[nineknights](https://open.kattis.com/problems/nineknights)|[Python3](https://github.com/sbrommer/kattis/blob/main/nineknights.py)|
 |[nodup](https://open.kattis.com/problems/nodup)|[Python3](https://github.com/sbrommer/kattis/blob/main/nodup.py)|
+|[nop](https://open.kattis.com/problems/nop)|[Python3](https://github.com/sbrommer/kattis/blob/main/nop.py)|
 |[nsum](https://open.kattis.com/problems/nsum)|[Python3](https://github.com/sbrommer/kattis/blob/main/nsum.py)|
 |[numberfun](https://open.kattis.com/problems/numberfun)|[Python3](https://github.com/sbrommer/kattis/blob/main/numberfun.py)|
 |[numbertree](https://open.kattis.com/problems/numbertree)|[Python3](https://github.com/sbrommer/kattis/blob/main/numbertree.py)|
