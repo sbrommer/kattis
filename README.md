@@ -256,6 +256,7 @@
 |[pot](https://open.kattis.com/problems/pot)|[Python3](https://github.com/sbrommer/kattis/blob/main/pot.py)|
 |[prerequisites](https://open.kattis.com/problems/prerequisites)|[Python3](https://github.com/sbrommer/kattis/blob/main/prerequisites.py)|
 |[printingcosts](https://open.kattis.com/problems/printingcosts)|[Python3](https://github.com/sbrommer/kattis/blob/main/printingcosts.py)|
+|[progressivescramble](https://open.kattis.com/problems/progressivescramble)|[Python3](https://github.com/sbrommer/kattis/blob/main/progressivescramble.py)|
 |[provincesandgold](https://open.kattis.com/problems/provincesandgold)|[Python3](https://github.com/sbrommer/kattis/blob/main/provincesandgold.py)|
 |[prozor](https://open.kattis.com/problems/prozor)|[Python3](https://github.com/sbrommer/kattis/blob/main/prozor.py)|
 |[prsteni](https://open.kattis.com/problems/prsteni)|[Python3](https://github.com/sbrommer/kattis/blob/main/prsteni.py)|
