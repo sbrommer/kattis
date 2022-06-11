@@ -4,12 +4,8 @@ n = int(o.readline())
 
 while n >= 0:
     # parse
-    ss, ts = [], []
-
-    for _ in range(n):
-        s, t = [int(i) for i in o.readline().split()]
-        ss.append(s)
-        ts.append(t)
+    inp = [map(int, o.readline().split()) for _ in range(n)]
+    ss, ts = map(list, zip(*inp))
 
     # calculate distance
     ts = [t2 - t1 for t1, t2 in zip([0] + ts, ts)]
