@@ -68,6 +68,7 @@
 |[cold](https://open.kattis.com/problems/cold)|[Python3](https://github.com/sbrommer/kattis/blob/main/cold.py)|
 |[commercials](https://open.kattis.com/problems/commercials)|[Python3](https://github.com/sbrommer/kattis/blob/main/commercials.py)|
 |[compass](https://open.kattis.com/problems/compass)|[Python3](https://github.com/sbrommer/kattis/blob/main/compass.py)|
+|[completingthesquare](https://open.kattis.com/problems/completingthesquare)|[Python3](https://github.com/sbrommer/kattis/blob/main/completingthesquare.py)|
 |[compoundwords](https://open.kattis.com/problems/compoundwords)|[Python3](https://github.com/sbrommer/kattis/blob/main/compoundwords.py)|
 |[conformity](https://open.kattis.com/problems/conformity)|[Python3](https://github.com/sbrommer/kattis/blob/main/conformity.py)|
 |[conundrum](https://open.kattis.com/problems/conundrum)|[Python3](https://github.com/sbrommer/kattis/blob/main/conundrum.py)|
