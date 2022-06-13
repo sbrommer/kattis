@@ -110,6 +110,7 @@
 |[estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[Python3](https://github.com/sbrommer/kattis/blob/main/estimatingtheareaofacircle.py)|
 |[eventplanning](https://open.kattis.com/problems/eventplanning)|[Python3](https://github.com/sbrommer/kattis/blob/main/eventplanning.py)|
 |[everywhere](https://open.kattis.com/problems/everywhere)|[Python3](https://github.com/sbrommer/kattis/blob/main/everywhere.py)|
+|[exactlyelectrical](https://open.kattis.com/problems/exactlyelectrical)|[Python3](https://github.com/sbrommer/kattis/blob/main/exactlyelectrical.py)|
 |[exam](https://open.kattis.com/problems/exam)|[Python3](https://github.com/sbrommer/kattis/blob/main/exam.py)|
 |[exoplanetlighthouse](https://open.kattis.com/problems/exoplanetlighthouse)|[Python3](https://github.com/sbrommer/kattis/blob/main/exoplanetlighthouse.py)|
 |[expectedearnings](https://open.kattis.com/problems/expectedearnings)|[Python3](https://github.com/sbrommer/kattis/blob/main/expectedearnings.py)|
