@@ -9,6 +9,6 @@ def highest_divisor(N):
     return 1
 
 
-N = int(open(0).readline())
+N = int(input())
 
 print(N - highest_divisor(N))
