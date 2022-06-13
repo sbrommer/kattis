@@ -241,6 +241,7 @@
 |[pachydermpeanutpacking](https://open.kattis.com/problems/pachydermpeanutpacking)|[Python3](https://github.com/sbrommer/kattis/blob/main/pachydermpeanutpacking.py)|
 |[parking](https://open.kattis.com/problems/parking)|[Python3](https://github.com/sbrommer/kattis/blob/main/parking.py)|
 |[parking2](https://open.kattis.com/problems/parking2)|[Python3](https://github.com/sbrommer/kattis/blob/main/parking2.py)|
+|[pascal](https://open.kattis.com/problems/pascal)|[Python3](https://github.com/sbrommer/kattis/blob/main/pascal.py)|
 |[patuljci](https://open.kattis.com/problems/patuljci)|[Python3](https://github.com/sbrommer/kattis/blob/main/patuljci.py)|
 |[pauleigon](https://open.kattis.com/problems/pauleigon)|[Python3](https://github.com/sbrommer/kattis/blob/main/pauleigon.py)|
 |[peg](https://open.kattis.com/problems/peg)|[Python3](https://github.com/sbrommer/kattis/blob/main/peg.py)|
