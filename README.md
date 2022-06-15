@@ -188,6 +188,7 @@
 |[knotknowledge](https://open.kattis.com/problems/knotknowledge)|[Python3](https://github.com/sbrommer/kattis/blob/main/knotknowledge.py)|
 |[kornislav](https://open.kattis.com/problems/kornislav)|[Python3](https://github.com/sbrommer/kattis/blob/main/kornislav.py)|
 |[krizaljka](https://open.kattis.com/problems/krizaljka)|[Python3](https://github.com/sbrommer/kattis/blob/main/krizaljka.py)|
+|[lamps](https://open.kattis.com/problems/lamps)|[Python3](https://github.com/sbrommer/kattis/blob/main/lamps.py)|
 |[ladder](https://open.kattis.com/problems/ladder)|[Python3](https://github.com/sbrommer/kattis/blob/main/ladder.py)|
 |[laptopsticker](https://open.kattis.com/problems/laptopsticker)|[Python3](https://github.com/sbrommer/kattis/blob/main/laptopsticker.py)|
 |[lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit)|[Python3](https://github.com/sbrommer/kattis/blob/main/lastfactorialdigit.py)|
