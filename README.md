@@ -64,6 +64,7 @@
 |[closingtheloop](https://open.kattis.com/problems/closingtheloop)|[Python3](https://github.com/sbrommer/kattis/blob/main/closingtheloop.py)|
 |[cocktail](https://open.kattis.com/problems/cocktail)|[Python3](https://github.com/sbrommer/kattis/blob/main/cocktail.py)|
 |[coconut](https://open.kattis.com/problems/coconut)|[Python3](https://github.com/sbrommer/kattis/blob/main/coconut.py)|
+|[codeguessing](https://open.kattis.com/problems/codeguessing)|[Python3](https://github.com/sbrommer/kattis/blob/main/codeguessing.py)|
 |[codetosavelives](https://open.kattis.com/problems/codetosavelives)|[Python3](https://github.com/sbrommer/kattis/blob/main/codetosavelives.py)|
 |[cold](https://open.kattis.com/problems/cold)|[Python3](https://github.com/sbrommer/kattis/blob/main/cold.py)|
 |[commercials](https://open.kattis.com/problems/commercials)|[Python3](https://github.com/sbrommer/kattis/blob/main/commercials.py)|
