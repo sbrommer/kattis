@@ -351,6 +351,7 @@
 |[touchscreenkeyboard](https://open.kattis.com/problems/touchscreenkeyboard)|[Python3](https://github.com/sbrommer/kattis/blob/main/touchscreenkeyboard.py)|
 |[tracksmoothing](https://open.kattis.com/problems/tracksmoothing)|[Python3](https://github.com/sbrommer/kattis/blob/main/tracksmoothing.py)|
 |[trainpassengers](https://open.kattis.com/problems/trainpassengers)|[Python3](https://github.com/sbrommer/kattis/blob/main/trainpassengers.py)|
+|[tram](https://open.kattis.com/problems/tram)|[Python3](https://github.com/sbrommer/kattis/blob/main/tram.py)|
 |[transitwoes](https://open.kattis.com/problems/transitwoes)|[Python3](https://github.com/sbrommer/kattis/blob/main/transitwoes.py)|
 |[tri](https://open.kattis.com/problems/tri)|[Python3](https://github.com/sbrommer/kattis/blob/main/tri.py)|
 |[triangleornaments](https://open.kattis.com/problems/triangleornaments)|[Python3](https://github.com/sbrommer/kattis/blob/main/triangleornaments.py)|
