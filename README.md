@@ -314,6 +314,7 @@
 |[skener](https://open.kattis.com/problems/skener)|[Python3](https://github.com/sbrommer/kattis/blob/main/skener.py)|
 |[skocimis](https://open.kattis.com/problems/skocimis)|[Python3](https://github.com/sbrommer/kattis/blob/main/skocimis.py)|
 |[skruop](https://open.kattis.com/problems/skruop)|[Python3](https://github.com/sbrommer/kattis/blob/main/skruop.py)|
+|[skyislands](https://open.kattis.com/problems/skyislands)|[Python3](https://github.com/sbrommer/kattis/blob/main/skyislands.py)|
 |[slatkisi](https://open.kattis.com/problems/slatkisi)|[Python3](https://github.com/sbrommer/kattis/blob/main/slatkisi.py)|
 |[smil](https://open.kattis.com/problems/smil)|[Python3](https://github.com/sbrommer/kattis/blob/main/smil.py)|
 |[socialdistancing2](https://open.kattis.com/problems/socialdistancing2)|[Python3](https://github.com/sbrommer/kattis/blob/main/socialdistancing2.py)|
