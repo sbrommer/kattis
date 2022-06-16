@@ -343,6 +343,7 @@
 |[tenis](https://open.kattis.com/problems/tenis)|[Python3](https://github.com/sbrommer/kattis/blob/main/tenis.py)|
 |[tetration](https://open.kattis.com/problems/tetration)|[Python3](https://github.com/sbrommer/kattis/blob/main/tetration.py)|
 |[tetris](https://open.kattis.com/problems/tetris)|[Python3](https://github.com/sbrommer/kattis/blob/main/tetris.py)|
+|[textureanalysis](https://open.kattis.com/problems/textureanalysis)|[Python3](https://github.com/sbrommer/kattis/blob/main/textureanalysis.py)|
 |[thelastproblem](https://open.kattis.com/problems/thelastproblem)|[Python3](https://github.com/sbrommer/kattis/blob/main/thelastproblem.py)|
 |[theplank](https://open.kattis.com/problems/theplank)|[Python3](https://github.com/sbrommer/kattis/blob/main/theplank.py)|
 |[threepowers](https://open.kattis.com/problems/threepowers)|[Python3](https://github.com/sbrommer/kattis/blob/main/threepowers.py)|
