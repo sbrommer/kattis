@@ -302,6 +302,7 @@
 |[shatteredcake](https://open.kattis.com/problems/shatteredcake)|[Python3](https://github.com/sbrommer/kattis/blob/main/shatteredcake.py)|
 |[shoppinglisteasy](https://open.kattis.com/problems/shoppinglisteasy)|[Python3](https://github.com/sbrommer/kattis/blob/main/shoppinglisteasy.py)|
 |[sibice](https://open.kattis.com/problems/sibice)|[Python3](https://github.com/sbrommer/kattis/blob/main/sibice.py)|
+|[sidewayssorting](https://open.kattis.com/problems/sidewayssorting)|[Python3](https://github.com/sbrommer/kattis/blob/main/sidewayssorting.py)|
 |[sifferprodukt](https://open.kattis.com/problems/sifferprodukt)|[Python3](https://github.com/sbrommer/kattis/blob/main/sifferprodukt.py)|
 |[simon](https://open.kattis.com/problems/simon)|[Python3](https://github.com/sbrommer/kattis/blob/main/simon.py)|
 |[simone](https://open.kattis.com/problems/simone)|[Python3](https://github.com/sbrommer/kattis/blob/main/simone.py)|
