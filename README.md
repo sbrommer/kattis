@@ -158,6 +158,7 @@
 |[heliocentric](https://open.kattis.com/problems/heliocentric)|[Python3](https://github.com/sbrommer/kattis/blob/main/heliocentric.py)|
 |[hello](https://open.kattis.com/problems/hello)|[Python3](https://github.com/sbrommer/kattis/blob/main/hello.py)|
 |[helpaphd](https://open.kattis.com/problems/helpaphd)|[Python3](https://github.com/sbrommer/kattis/blob/main/helpaphd.py)|
+|[helpme](https://open.kattis.com/problems/helpme)|[Python3](https://github.com/sbrommer/kattis/blob/main/helpme.py)|
 |[herman](https://open.kattis.com/problems/herman)|[Python3](https://github.com/sbrommer/kattis/blob/main/herman.py)|
 |[hidingplaces](https://open.kattis.com/problems/hidingplaces)|[Python3](https://github.com/sbrommer/kattis/blob/main/hidingplaces.py)|
 |[hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone)|[Python3](https://github.com/sbrommer/kattis/blob/main/hissingmicrophone.py)|
