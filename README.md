@@ -15,6 +15,7 @@
 |[alphabetspam](https://open.kattis.com/problems/alphabetspam)|[Python3](https://github.com/sbrommer/kattis/blob/main/alphabetspam.py)|
 |[amoebas](https://open.kattis.com/problems/amoebas)|[Python3](https://github.com/sbrommer/kattis/blob/main/amoebas.py)|
 |[anewalphabet](https://open.kattis.com/problems/anewalphabet)|[Python3](https://github.com/sbrommer/kattis/blob/main/anewalphabet.py)|
+|[anothercandies](https://open.kattis.com/problems/anothercandies)|[Python3](https://github.com/sbrommer/kattis/blob/main/anothercandies.py)|
 |[apaxiaaans](https://open.kattis.com/problems/apaxiaaans)|[Python3](https://github.com/sbrommer/kattis/blob/main/apaxiaaans.py)|
 |[apaxianparent](https://open.kattis.com/problems/apaxianparent)|[Python3](https://github.com/sbrommer/kattis/blob/main/apaxianparent.py)|
 |[areal](https://open.kattis.com/problems/areal)|[Python3](https://github.com/sbrommer/kattis/blob/main/areal.py)|
