@@ -288,6 +288,7 @@
 |[rectanglearea](https://open.kattis.com/problems/rectanglearea)|[Python3](https://github.com/sbrommer/kattis/blob/main/rectanglearea.py)|
 |[redrover](https://open.kattis.com/problems/redrover)|[Python3](https://github.com/sbrommer/kattis/blob/main/redrover.py)|
 |[relocation](https://open.kattis.com/problems/relocation)|[Python3](https://github.com/sbrommer/kattis/blob/main/relocation.py)|
+|[reseto](https://open.kattis.com/problems/reseto)|[Python3](https://github.com/sbrommer/kattis/blob/main/reseto.py)|
 |[reversebinary](https://open.kattis.com/problems/reversebinary)|[Python3](https://github.com/sbrommer/kattis/blob/main/reversebinary.py)|
 |[reverserot](https://open.kattis.com/problems/reverserot)|[Python3](https://github.com/sbrommer/kattis/blob/main/reverserot.py)|
 |[rijeci](https://open.kattis.com/problems/rijeci)|[Python3](https://github.com/sbrommer/kattis/blob/main/rijeci.py)|
