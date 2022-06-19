@@ -213,6 +213,7 @@
 |[methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication)|[Python3](https://github.com/sbrommer/kattis/blob/main/methodicmultiplication.py)|
 |[mia](https://open.kattis.com/problems/mia)|[Python3](https://github.com/sbrommer/kattis/blob/main/mia.py)|
 |[mirror](https://open.kattis.com/problems/mirror)|[Python3](https://github.com/sbrommer/kattis/blob/main/mirror.py)|
+|[misa](https://open.kattis.com/problems/misa)|[Python3](https://github.com/sbrommer/kattis/blob/main/misa.py)|
 |[missingnumbers](https://open.kattis.com/problems/missingnumbers)|[Python3](https://github.com/sbrommer/kattis/blob/main/missingnumbers.py)|
 |[mixedfractions](https://open.kattis.com/problems/mixedfractions)|[Python3](https://github.com/sbrommer/kattis/blob/main/mixedfractions.py)|
 |[mjehuric](https://open.kattis.com/problems/mjehuric)|[Python3](https://github.com/sbrommer/kattis/blob/main/mjehuric.py)|
