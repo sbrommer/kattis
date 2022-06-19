@@ -260,6 +260,7 @@
 |[pizza2](https://open.kattis.com/problems/pizza2)|[Python3](https://github.com/sbrommer/kattis/blob/main/pizza2.py)|
 |[planina](https://open.kattis.com/problems/planina)|[Python3](https://github.com/sbrommer/kattis/blob/main/planina.py)|
 |[plantingtrees](https://open.kattis.com/problems/plantingtrees)|[Python3](https://github.com/sbrommer/kattis/blob/main/plantingtrees.py)|
+|[platforme](https://open.kattis.com/problems/platforme)|[Python3](https://github.com/sbrommer/kattis/blob/main/platforme.py)|
 |[pokerhand](https://open.kattis.com/problems/pokerhand)|[Python3](https://github.com/sbrommer/kattis/blob/main/pokerhand.py)|
 |[polymul1](https://open.kattis.com/problems/polymul1)|[Python3](https://github.com/sbrommer/kattis/blob/main/polymul1.py)|
 |[pot](https://open.kattis.com/problems/pot)|[Python3](https://github.com/sbrommer/kattis/blob/main/pot.py)|
