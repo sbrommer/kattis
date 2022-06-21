@@ -68,6 +68,7 @@
 |[codeguessing](https://open.kattis.com/problems/codeguessing)|[Python3](https://github.com/sbrommer/kattis/blob/main/codeguessing.py)|
 |[codetosavelives](https://open.kattis.com/problems/codetosavelives)|[Python3](https://github.com/sbrommer/kattis/blob/main/codetosavelives.py)|
 |[cold](https://open.kattis.com/problems/cold)|[Python3](https://github.com/sbrommer/kattis/blob/main/cold.py)|
+|[combinationlock](https://open.kattis.com/problems/combinationlock)|[Python3](https://github.com/sbrommer/kattis/blob/main/combinationlock.py)|
 |[commercials](https://open.kattis.com/problems/commercials)|[Python3](https://github.com/sbrommer/kattis/blob/main/commercials.py)|
 |[compass](https://open.kattis.com/problems/compass)|[Python3](https://github.com/sbrommer/kattis/blob/main/compass.py)|
 |[completingthesquare](https://open.kattis.com/problems/completingthesquare)|[Python3](https://github.com/sbrommer/kattis/blob/main/completingthesquare.py)|
