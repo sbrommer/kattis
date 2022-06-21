@@ -1,6 +1,4 @@
-from sys import stdin
-
-s = stdin.readline()
+s = input()
 
 t = s.count('T')
 c = s.count('C')
