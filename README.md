@@ -143,6 +143,7 @@
 |[grassseed](https://open.kattis.com/problems/grassseed)|[Python3](https://github.com/sbrommer/kattis/blob/main/grassseed.py)|
 |[greedypolygons](https://open.kattis.com/problems/greedypolygons)|[Python3](https://github.com/sbrommer/kattis/blob/main/greedypolygons.py)|
 |[greetings2](https://open.kattis.com/problems/greetings2)|[Python3](https://github.com/sbrommer/kattis/blob/main/greetings2.py)|
+|[growlinggears](https://open.kattis.com/problems/growlinggears)|[Python3](https://github.com/sbrommer/kattis/blob/main/growlinggears.py)|
 |[guessinggame](https://open.kattis.com/problems/guessinggame)|[Python3](https://github.com/sbrommer/kattis/blob/main/guessinggame.py)|
 |[guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure)|[Python3](https://github.com/sbrommer/kattis/blob/main/guessthedatastructure.py)|
 |[hailstone](https://open.kattis.com/problems/hailstone)|[Python3](https://github.com/sbrommer/kattis/blob/main/hailstone.py)|
