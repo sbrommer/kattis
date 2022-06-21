@@ -1,7 +1,4 @@
-import sys
-
-line = sys.stdin.readline()
-(h, m) = map(int, line.split())
+h, m = map(int, input().split())
 
 dh = m < 45
 
