@@ -1,12 +1,13 @@
-from sys import stdin
+from operator import mul
 
-w = int(stdin.readline())
-n = int(stdin.readline())
 
-a = 0
+def readints():
+    return [int(n) for n in input().split()]
 
-for _ in range(n):
-    (wi, li) = list(map(int, stdin.readline().split()))
-    a += wi * li
 
-print(a // w)
+W, = readints()
+N, = readints()
+
+A = sum(mul(*readints()) for _ in range(N))
+
+print(A // W)
