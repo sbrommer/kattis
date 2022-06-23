@@ -25,6 +25,7 @@
 |[astrologicalsign](https://open.kattis.com/problems/astrologicalsign)|[Python3](https://github.com/sbrommer/kattis/blob/main/astrologicalsign.py)|
 |[autori](https://open.kattis.com/problems/autori)|[Python3](https://github.com/sbrommer/kattis/blob/main/autori.py)|
 |[averagecharacter](https://open.kattis.com/problems/averagecharacter)|[Python3](https://github.com/sbrommer/kattis/blob/main/averagecharacter.py)|
+|[averageshard](https://open.kattis.com/problems/averageshard)|[Python3](https://github.com/sbrommer/kattis/blob/main/averageshard.py)|
 |[avion](https://open.kattis.com/problems/avion)|[Python3](https://github.com/sbrommer/kattis/blob/main/avion.py)|
 |[babelfish](https://open.kattis.com/problems/babelfish)|[Python3](https://github.com/sbrommer/kattis/blob/main/babelfish.py)|
 |[babybites](https://open.kattis.com/problems/babybites)|[Python3](https://github.com/sbrommer/kattis/blob/main/babybites.py)|
