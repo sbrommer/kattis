@@ -1,6 +1,3 @@
-from sys import stdin
+word = input().strip()
 
-word = stdin.readline().strip()
-
-for _ in range(3):
-    print(word, sep=' ')
+print(*[word] * 3)

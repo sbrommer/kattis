@@ -1,4 +1,4 @@
-from sys import stdin
+from functools import reduce
+from operator import mul
 
-n, t, m = list(map(int, stdin.readline().split()))
-print(n * t * m)
+print(reduce(mul, map(int, input().split())))

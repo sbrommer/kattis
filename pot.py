@@ -1,13 +1,3 @@
-import sys
+n = int(input())
 
-n = int(sys.stdin.readline())
-
-x = 0
-
-for _ in range(n):
-    p = int(sys.stdin.readline())
-    number = p // 10
-    power  = p % 10
-    x += number ** power
-
-print(x)
+print(sum(pow(*divmod(int(input()), 10)) for _ in range(n)))

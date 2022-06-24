@@ -1,3 +1,3 @@
-s = open(0).readline().strip()
+s = input().strip()
 
 print(s[s.find('a'):])

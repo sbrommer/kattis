@@ -1,5 +1,3 @@
-drawing = open(0).readline().strip()
+l, r = map(len, input().split('()'))
 
-left, right = map(len, drawing.split('()'))
-
-print('correct' if left == right else 'fix')
+print('correct' if l == r else 'fix')

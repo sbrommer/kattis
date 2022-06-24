@@ -1,12 +1,8 @@
-o = open(0)
-
 def readints():
-    return list(map(int, o.readline().split()))
+    return [int(n) for n in input().split()]
+
 
 G, T, N = readints()
-ω = sum(readints())
+ws = sum(readints())
 
-max_weight = (G - T) * 0.9
-
-
-print(int((G - T) * 0.9 - ω))
+print(int((G - T) * 0.9 - ws))

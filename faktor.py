@@ -1,6 +1,3 @@
-import sys
+a, i = map(int, input().split())
 
-line = sys.stdin.readline()
-(a, i) = map(int, line.split())
-
-print(a * (i-1) + 1)
+print(a * (i - 1) + 1)

@@ -1,6 +1,4 @@
-import sys
+n = int(input())
 
-n = int(sys.stdin.readline()[:-1])
-
-for i in range(1, n+1):
-    print(i, 'Abracadabra')
+for i in range(n):
+    print(i + 1, 'Abracadabra')

@@ -1,12 +1,8 @@
-from sys import stdin
-
 def readint():
-    return int(stdin.readline())
+    return int(input())
+
 
 n = readint()
-s = 0
-
-for _ in range(n):
-    s += readint()
+s = sum(readint() for _ in range(n))
 
 print(s - n + 1)

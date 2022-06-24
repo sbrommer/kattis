@@ -1,6 +1,3 @@
-import sys
+n = int(input())
 
-n = int(sys.stdin.readline()[:-1])
-
-print("Bob" if n % 2 == 0 else "Alice")
-
+print("Alice" if n % 2 else "Bob")

@@ -1,3 +1,1 @@
-from sys import stdin
-
-print(sum(map(int, stdin.readline().split())))
+print(sum(map(int, input().split())))

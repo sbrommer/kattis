@@ -1,13 +1,7 @@
-import sys
+from operator import mul
 
-c = float(sys.stdin.readline())
-n = int(sys.stdin.readline())
+C = float(input())
+L = int(input())
+areas = [mul(*map(float, input().split())) for _ in range(L)]
 
-area = 0
-
-for _ in range(n):
-    line = sys.stdin.readline()
-    (w, l) = list(map(float, line.split()))
-    area += w * l
-
-print(area * c)
+print(C * sum(areas))

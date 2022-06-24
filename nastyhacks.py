@@ -1,10 +1,7 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    line = sys.stdin.readline()
-    (r, e, c) = map(int, line.split())
+    r, e, c = map(int, input().split())
     if r < e - c:
         print('advertise')
     if r > e - c:

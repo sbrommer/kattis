@@ -1,7 +1,5 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    k, *os = list(map(int, sys.stdin.readline().split()))
+    k, *os = map(int, input().split())
     print(1 + sum(os) - k)

@@ -1,6 +1,4 @@
-import sys
+from statistics import mean
 
-sys.stdin.readline()
-at_bats = map(int, sys.stdin.readline().split())
-officials = list(filter(lambda at_bat : at_bat >= 0, at_bats))
-print(sum(officials) / len(officials))
+input()
+print(mean(filter(lambda b: b >= 0, map(int, input().split()))))

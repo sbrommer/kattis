@@ -1,12 +1,8 @@
-import sys
+def readint():
+    return int(input())
 
-x = int(sys.stdin.readline())
-n = int(sys.stdin.readline())
 
-total = x * (n + 1)
+X = readint()
+N = readint()
 
-for _ in range(n):
-    p = int(sys.stdin.readline())
-    total -= p
-
-print(total)
+print(X * (N + 1) - sum(readint() for _ in range(N)))

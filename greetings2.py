@@ -1,6 +1,4 @@
-import sys
-
-line = sys.stdin.readline()[:-1]
+line = input().strip()
 
 n = 2 * (len(line) - 2)
 

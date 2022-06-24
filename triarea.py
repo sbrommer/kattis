@@ -1,5 +1,3 @@
-from sys import stdin
+from operator import mul
 
-h, b = list(map(int, stdin.readline().split()))
-
-print(h * b / 2)
+print(mul(*map(int, input().split())) / 2)

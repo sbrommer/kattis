@@ -1,18 +1,8 @@
-import sys
+x = int(input())
+y = int(input())
 
-def quadrant(x, y):
-    if x > 0:
-        if y > 0:
-            return 1
-        if y < 0:
-            return 4
-    if x < 0:
-        if y < 0:
-            return 3
-        if y > 0:
-            return 2
+if x > 0:
+    print(1 if y > 0 else 4)
 
-x = int(sys.stdin.readline())
-y = int(sys.stdin.readline())
-
-print(quadrant(x, y))
+else:
+    print(2 if y > 0 else 3)

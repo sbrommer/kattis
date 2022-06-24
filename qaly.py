@@ -1,10 +1,11 @@
+from operator import mul
+
+
+def getfloats():
+    return [float(i) for i in input().split()]
+
+
 n = int(input())
-
-qaly = 0
-
-for _ in range(n):
-    line = input()
-    q, y = [float(i) for i in line.split()]
-    qaly += q * y
+qaly = sum(mul(*getfloats()) for _ in range(n))
 
 print(qaly)

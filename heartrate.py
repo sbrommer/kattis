@@ -1,9 +1,7 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    (b, p) = sys.stdin.readline().split()
+    b, p = input().split()
     b = int(b)
     p = float(p)
 

@@ -1,8 +1,5 @@
-import sys
+from operator import sub
 
-line = sys.stdin.readline()
-pieces = list(map(int, line.split()))
-should = [1, 1, 2, 2, 2, 8]
+pieces = list(map(int, input().split()))
 
-for i in range(6):
-    print(should[i] - pieces[i], end=' ')
+print(*map(sub, [1, 1, 2, 2, 2, 8], pieces))

@@ -1,9 +1,3 @@
-import sys
+r1, s = map(int, input().split())
 
-line = sys.stdin.readline()
-
-(r1, s) = list(map(int, line.split()))
-
-r2 = 2*s - r1
-
-print(r2)
+print(2 * s - r1)

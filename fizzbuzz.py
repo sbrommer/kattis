@@ -1,15 +1,11 @@
-import sys
-
-line = sys.stdin.readline()
-(x, y, n) = map(int, line.split())
+x, y, n = map(int, input().split())
 
 for i in range(1, n+1):
     s = ''
 
-    if i % x == 0:
+    if not i % x:
         s += 'Fizz'
-    if i % y == 0:
+    if not i % y:
         s += 'Buzz'
 
-    print(i if s == '' else s)
-
+    print(s if s else i)
