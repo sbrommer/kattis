@@ -1,8 +1,4 @@
-import sys
-
-word = sys.stdin.readline()
-
-if 'ss' not in word:
-    print('no', end=' ')
+if 'ss' not in input():
+    print('no')
 
 print('hiss')

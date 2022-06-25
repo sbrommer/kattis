@@ -1,16 +1,6 @@
-from sys import stdin
+n = int(input())
 
-n = int(stdin.readline())
-s = 0
+colours = [input().lower() for _ in range(n)]
+s = sum('pink' in c or 'rose' in c for c in colours)
 
-for _ in range(n):
-    color = stdin.readline()
-    color = color.lower()
-
-    if 'pink' in color or 'rose' in color:
-        s += 1
-
-if s == 0:
-    print('I must watch Star Wars with my daughter')
-else:
-    print(s)
+print(s if s else 'I must watch Star Wars with my daughter')

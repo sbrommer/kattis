@@ -1,9 +1,9 @@
-from sys import stdin
 from math import sqrt
+from operator import mul
+from functools import reduce
 
-(ss) = list(map(int, stdin.readline().split()))
-
-s = sum(ss) / 2
-a = sqrt((s-ss[0]) * (s-ss[1]) * (s-ss[2]) * (s-ss[3]))
+ss = [int(s) for s in input().split()]
+t = sum(ss) / 2
+a = sqrt(reduce(mul, [t - s for s in ss]))
 
 print(a)

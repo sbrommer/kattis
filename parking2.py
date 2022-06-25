@@ -1,9 +1,7 @@
-import sys
-
-t = int(sys.stdin.readline())
+t = int(input())
 
 for _ in range(t):
-    n = int(sys.stdin.readline())
-    xs = list(map(int, sys.stdin.readline().split()))
+    input()
+    xs = [int(x) for x in input().split()]
 
     print((max(xs) - min(xs)) * 2)

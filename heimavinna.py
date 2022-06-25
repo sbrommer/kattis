@@ -1,14 +1,6 @@
-import sys
+def n(problem):
+    ps = [int(p) for p in problem]
+    return ps[-1] - ps[0] + 1
 
-problems = sys.stdin.readline()[:-1].split(';')
-problems = map(lambda problem : problem.split('-'), problems)
 
-n = 0
-
-for problem in problems:
-    if len(problem) > 1:
-        (l, h) = list(map(int, problem))
-        n += h - l
-    n += 1
-    
-print(n)
+print(sum(map(lambda p: n(p.split('-')), input().split(';'))))

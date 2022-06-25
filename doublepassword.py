@@ -1,11 +1,11 @@
-o = open(0)
+from operator import ne
+
 
 def readstring():
-    return [int(c) for c in o.readline().strip()]
+    return [int(c) for c in input().strip()]
+
 
 s1 = readstring()
 s2 = readstring()
 
-n = sum(t[0] != t[1] for t in zip(s1, s2))
-
-print(2 ** n)
+print(2 ** sum(map(ne, s1, s2)))

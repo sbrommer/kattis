@@ -1,12 +1,8 @@
-import sys
+T = int(input())
 
-t = int(sys.stdin.readline())
+for _ in range(T):
+    ts = [int(t) for t in input().split()]
 
-for _ in range(t):
-    turtles = list(map(int, sys.stdin.readline().split()[:-1]))
+    bs = [max(0, t2 - t1 * 2) for t1, t2 in zip(ts, ts[1:])]
 
-    b = 0
-    for i in range(len(turtles)-1):
-        b += max(turtles[i+1] - turtles[i] * 2, 0)
-
-    print(b)
+    print(sum(bs))

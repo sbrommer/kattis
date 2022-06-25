@@ -1,18 +1,15 @@
-import sys
-
 def sod(i):
     return sum(map(int, str(i)))
 
-l = int(sys.stdin.readline())
-d = int(sys.stdin.readline())
-x = int(sys.stdin.readline())
 
-for n in range(l, d+1):
-    if sod(n) == x:
-        print(n)
+L, D, X = map(int, open(0).readlines())
+
+for N in range(L, D+1):
+    if sod(N) == X:
+        print(N)
         break
 
-for m in range(d, l-1, -1):
-    if sod(m) == x:
-        print(m)
+for M in range(D, L-1, -1):
+    if sod(M) == X:
+        print(M)
         break

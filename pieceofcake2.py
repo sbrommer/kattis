@@ -1,7 +1,3 @@
-import sys
+n, h, v = map(int, input().split())
 
-line = sys.stdin.readline()
-
-(n, h, v) = list(map(int, line.split()))
-
-print(max(h, n-h) * max(v, n-v) * 4)
+print(max(h, n - h) * max(v, n - v) * 4)

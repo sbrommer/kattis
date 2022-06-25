@@ -1,9 +1,11 @@
-from sys import stdin
+def readints():
+    return [int(n) for n in input().split()]
 
-(s, t, n) = list(map(int, stdin.readline().split()))
-ds = list(map(int, stdin.readline().split()))
-bs = list(map(int, stdin.readline().split()))
-cs = list(map(int, stdin.readline().split()))
+
+s, t, n = readints()
+ds = readints()
+bs = readints()
+cs = readints()
 
 for i in range(n):
     s += ds[i]

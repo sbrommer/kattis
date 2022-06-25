@@ -1,12 +1,5 @@
-import sys
+T = int(input())
 
-t = int(sys.stdin.readline())
-
-for _ in range(t):
-    n = int(sys.stdin.readline())
-
-    cities = set()
-    for _ in range(n):
-        cities.add(sys.stdin.readline())
-
-    print(len(cities))
+for _ in range(T):
+    n = int(input())
+    print(len(set(input() for _ in range(n))))

@@ -1,5 +1,3 @@
-from sys import stdin
+s = input()
 
-s = stdin.readline().strip()
-
-print(1 if len(set(s)) == len(s) else 0)
+print(int(len(set(s)) == len(s)))

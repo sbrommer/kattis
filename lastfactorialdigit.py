@@ -1,9 +1,6 @@
-import sys
 from math import factorial
 
-t = int(sys.stdin.readline())
+T = int(input())
 
-for _ in range(t):
-    n = int(sys.stdin.readline())
-    f = factorial(n)
-    print(f % 10)
+for _ in range(T):
+    print(factorial(int(input())) % 10)

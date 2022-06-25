@@ -1,14 +1,13 @@
-import sys
 from math import sqrt
 
-t = int(sys.stdin.readline())
+t = int(input())
 
 for _ in range(t):
-    m = sys.stdin.readline()[:-1]
+    m = input()
     s = int(sqrt(len(m)))
 
-    for c in range(s-1, -1, -1):
-        for r in range(0, s):
-            print(m[r*s + c], end='')
+    for c in range(s):
+        for r in range(s):
+            print(m[r * s + (s - c - 1)], end='')
 
     print()

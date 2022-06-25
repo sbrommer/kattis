@@ -1,20 +1,14 @@
-from sys import stdin
-
-(r, c) = list(map(int, stdin.readline().split()))
+R, C = list(map(int, input().split()))
 
 squashes = [0] * 5
 
-city = []
+city = [input() for _ in range(R)]
 
-for _ in range(r):
-    city.append(stdin.readline()[:-1])
+for i in range(R-1):
+    for j in range(C-1):
+        space = city[i][j]   + city[i][j+1] +\
+                city[i+1][j] + city[i+1][j+1]
 
-for i in range(r-1):
-    for j in range(c-1):
-        space = city[i][j:j+2] + city[i+1][j:j+2]
+        squashes[space.count('X')] += '#' not in space
 
-        if '#' not in space:
-            squashes[space.count('X')] += 1
-
-for i in range(5):
-    print(squashes[i])
+print(*squashes)

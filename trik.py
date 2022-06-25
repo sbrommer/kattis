@@ -1,31 +1,13 @@
-import sys
 from functools import reduce
 
+
+moves = {'A': [0, 2, 1, 3],
+         'B': [0, 1, 3, 2],
+         'C': [0, 3, 2, 1]}
+
+
 def swap(cup, move):
-    if move == 'A':
-        if cup == 1:
-            return 2
-        if cup == 2:
-            return 1
-        if cup == 3:
-            return 3
-    if move == 'B':
-        if cup == 1:
-            return 1
-        if cup == 2:
-            return 3
-        if cup == 3:
-            return 2
+    return moves[move][cup]
 
-    if move == 'C':
-        if cup == 1:
-            return 3
-        if cup == 2:
-            return 2
-        if cup == 3:
-            return 1
 
-moves = sys.stdin.readline()[:-1]
-
-print(reduce(swap, moves, 1))
-
+print(reduce(swap, input(), 1))

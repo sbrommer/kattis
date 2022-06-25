@@ -1,12 +1,8 @@
-N = int(open(0).readline())
+from math import ceil
 
-def blocks(level):
-    return (2 * level - 1) ** 2
+N = int(input())
 
-level = 0
+l = ceil((3 * N / 4) ** (1 / 3))
+b = l * (4 * l ** 2 - 1) // 3
 
-while blocks(level + 1) <= N:
-    level += 1
-    N -= blocks(level)
-
-print(level)
+print(l - (b > N))

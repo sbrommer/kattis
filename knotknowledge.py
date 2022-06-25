@@ -1,8 +1,10 @@
-from sys import stdin
+def readints():
+    return set(map(int, input().split()))
 
-n = int(stdin.readline())
 
-xs = set(map(int, stdin.readline().split()))
-ys = set(map(int, stdin.readline().split()))
+readints()
+
+xs = readints()
+ys = readints()
 
 print(list(xs - ys)[0])

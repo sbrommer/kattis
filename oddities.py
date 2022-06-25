@@ -1,7 +1,5 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    x = int(sys.stdin.readline())
-    print(x, 'is', 'even' if x % 2 == 0 else 'odd')
+    x = int(input())
+    print(x, 'is', 'odd' if x % 2 else 'even')

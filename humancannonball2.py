@@ -1,12 +1,11 @@
-from sys import stdin
 from math import radians, cos, sin
 
 g = 9.81
 
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    (v0, theta, x1, h1, h2) = list(map(float, stdin.readline().split()))
+    v0, theta, x1, h1, h2 = list(map(float, input().split()))
     theta = radians(theta)
 
     t = x1 / (v0 * cos(theta))

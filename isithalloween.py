@@ -1,5 +1,1 @@
-from sys import stdin
-
-line = stdin.readline()[:-1]
-
-print('yup' if line == 'OCT 31' or line == 'DEC 25' else 'nope')
+print('yup' if input() in ['OCT 31', 'DEC 25'] else 'nope')

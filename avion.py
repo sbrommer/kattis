@@ -1,12 +1,4 @@
-from sys import stdin
+blimps = open(0).readlines()
+fbis = [i + 1 for i, b in enumerate(blimps) if 'FBI' in b]
 
-found = False
-
-for i in range(1, 6):
-    blimp = stdin.readline()
-    if 'FBI' in blimp:
-        print(i, end=' ')
-        found = True
-
-if not found:
-    print('HE GOT AWAY!')
+print(*fbis if fbis else ['HE GOT AWAY!'])

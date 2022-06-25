@@ -1,12 +1,6 @@
-import sys
+from operator import ne
 
-line = sys.stdin.readline()[:-1]
+line = input()
+per = len(line) // 3 * 'PER'
 
-per = 'PER' * (int(len(line) / 3))
-
-days = 0
-for i in range(len(line)):
-    if line[i] != per[i]:
-        days += 1
-
-print(days)
+print(sum(map(ne, line, per)))

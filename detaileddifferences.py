@@ -1,15 +1,13 @@
-from sys import stdin
+from operator import eq
 
-t = int(stdin.readline())
+n = int(input())
 
-for _ in range(t):
-    s1 = stdin.readline()[:-1]
-    s2 = stdin.readline()[:-1]
+for _ in range(n):
+    s1 = input()
+    s2 = input()
 
     print(s1)
     print(s2)
 
-    for i in range(len(s1)):
-        print('.' if s1[i] == s2[i] else '*', end='')
+    print(*['*.'[e] for e in map(eq, s1, s2)], sep='')
 
-    print('\n')

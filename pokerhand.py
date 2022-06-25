@@ -1,8 +1,6 @@
-from sys import stdin
+hand = input().split()
 
-hand = stdin.readline().split()
-
-ranks = list(map(lambda card : card[0], hand))
+ranks = [card[0] for card in hand]
 
 counts = [ranks.count(rank) for rank in set(ranks)]
 

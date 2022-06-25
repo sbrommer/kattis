@@ -1,11 +1,9 @@
-import sys
-
-line = sys.stdin.readline()[:-1]
+line = input()
 
 n = len(line)
 w = line.count('_')
-l = len(list(filter(lambda c : c.islower(), line)))
-h = len(list(filter(lambda c : c.isupper(), line)))
+l = sum(c.islower() for c in line)
+h = sum(c.isupper() for c in line)
 
 print(w / n)
 print(l / n)

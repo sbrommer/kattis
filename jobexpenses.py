@@ -1,8 +1,3 @@
-from sys import stdin
+input()
 
-stdin.readline()
-
-ks = map(int, stdin.readline().split())
-ks = filter(lambda k : k < 0, ks)
-
-print(-sum(ks))
+print(-sum(filter(lambda k: k < 0, map(int, input().split()))))

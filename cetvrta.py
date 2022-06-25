@@ -1,17 +1,10 @@
-import sys
+cs = [map(int, input().split()) for _ in range(3)]
+xs, ys = list(zip(*cs))
 
-xs = list()
-ys = list()
-
-for _ in range(3):
-    (x, y) = list(map(int, sys.stdin.readline().split()))
-    xs.append(x)
-    ys.append(y)
-
-for x in xs:
+for x in set(xs):
     if xs.count(x) == 1:
-        print(x, end= ' ')
+        print(x)
 
-for y in ys:
+for y in set(ys):
     if ys.count(y) == 1:
         print(y)
