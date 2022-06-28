@@ -1,8 +1,6 @@
-from sys import stdin
+limits = map(int, input().split())
+grade = int(input())
 
-limits = list(map(int, stdin.readline().split()))
-grade = int(stdin.readline())
-
-i = sum(map(lambda l : l > grade, limits))
+i = sum(map(grade.__lt__, limits))
 
 print('ABCDEF'[i])

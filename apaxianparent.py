@@ -1,6 +1,4 @@
-from sys import stdin
-
-(y, p) = stdin.readline().split()
+y, p = input().split()
 
 if y[-2:] == 'ex':
     print(y + p)

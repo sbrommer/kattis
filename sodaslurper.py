@@ -1,12 +1,11 @@
-from sys import stdin
-
-e, f, c = list(map(int, stdin.readline().split()))
+e, f, c = map(int, input().split())
 
 b = e + f
 s = 0
 
-while b // c > 0:
-    s += b // c
-    b = b // c + b % c
+while b // c:
+    d, m = divmod(b, c)
+    s += d
+    b = d + m
 
 print(s)

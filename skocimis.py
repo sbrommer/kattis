@@ -1,5 +1,3 @@
-from sys import stdin
+a, b, c = map(int, input().split())
 
-(a, b, c) = list(map(int, stdin.readline().split()))
-
-print(max(b-a, c-b) - 1)
+print(max(b - a, c - b) - 1)

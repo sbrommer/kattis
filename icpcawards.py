@@ -1,11 +1,10 @@
-from sys import stdin
-
-stdin.readline()
+input()
 
 universities = set()
 
 while len(universities) < 12:
-    (univ, team) = stdin.readline().split()
+    univ, team = input().split()
+
     if univ not in universities:
         universities.add(univ)
         print(univ, team)

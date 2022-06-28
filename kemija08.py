@@ -1,6 +1,6 @@
-from sys import stdin
+w = input()
 
-for w in stdin.readline().split():
-    for v in 'aeiou':
-        w = w.replace(v + 'p' + v, v)
-    print(w, end=' ')
+for v in 'aeiou':
+    w = w.replace(v + 'p' + v, v)
+
+print(w)

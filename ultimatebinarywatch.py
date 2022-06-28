@@ -1,6 +1,3 @@
-line = open(0).readline().strip()
-time = [int(c) for c in line]
-
 def int_to_leds(n):
     leds = ''
 
@@ -10,11 +7,9 @@ def int_to_leds(n):
 
     return leds
 
-leds = [int_to_leds(n) for n in time]
+
+leds = [int_to_leds(int(t)) for t in input()]
 leds = leds[:2] + ['    '] + leds[2:]
 
-leds_T = [''.join(led) for led in zip(*leds)]
-leds_T.reverse()
-
-for row in leds_T:
+for row in list(zip(*leds))[::-1]:
     print(*row, sep=' ')

@@ -1,11 +1,5 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    line = stdin.readline().strip()
-    if line == 'P=NP':
-        print('skipped')
-    else:
-        a, b = list(map(int, line.split('+')))
-        print(a + b)
+    line = input()
+    print('skipped' if line == 'P=NP' else eval(line))

@@ -1,4 +1,2 @@
-from sys import stdin
-
-N = float(stdin.readline())
+N = float(input())
 print(N ** (1 / N))

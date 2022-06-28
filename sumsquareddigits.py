@@ -1,21 +1,21 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 def SSD(b, n):
-    aa = to_base_b(b, n)
-    return sum(map(lambda a: a**2, aa))
+    return sum(map(lambda a: a ** 2, to_base_b(b, n)))
+
 
 def to_base_b(b, n):
     aa = []
-    while n != 0:
-        aa.append(n % b)
-        n //= b
+    while n:
+        n, a = divmod(n, b)
+        aa.append(a)
     return aa
 
-p = int(stdin.readline())
 
-for _ in range(p):
+P = int(input())
+
+for _ in range(P):
     K, b, n = readints()
     print(K, SSD(b, n))

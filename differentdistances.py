@@ -1,15 +1,11 @@
-from sys import stdin
+line = input()
 
-line = stdin.readline()
-
-while line != '0\n':
-    x1, y1, x2, y2, p = list(map(float, line.split()))
+while line != '0':
+    x1, y1, x2, y2, p = map(float, line.split())
 
     x = abs(x1 - x2) ** p
     y = abs(y1 - y2) ** p
 
     print((x + y) ** (1 / p))
 
-    line = stdin.readline()
-
-
+    line = input()

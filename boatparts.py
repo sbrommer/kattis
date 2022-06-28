@@ -1,15 +1,16 @@
-from sys import stdin
+def paradox():
+    P, N = map(int, input().split())
 
-p, n = list(map(int, stdin.readline().split()))
+    parts = set()
 
-parts = set()
-paradox = False
-for i in range(n):
-    parts.add(stdin.readline().strip())
-    if len(parts) == p:
-        paradox = True
-        print(i+1)
-        break
+    for i in range(N):
+        parts.add(input())
+        if len(parts) == P:
+            return i + 1
 
-if not paradox:
-    print('paradox avoided')
+    return 0
+
+
+p = paradox()
+
+print(p if p else 'paradox avoided')

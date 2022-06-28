@@ -1,7 +1,3 @@
-from sys import stdin
+N = int(input())
 
-n = int(stdin.readline())
-
-for _ in range(n):
-    e = stdin.readline()[:-1]
-    print(len(e))
+print(*[len(input()) for _ in range(N)])

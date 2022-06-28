@@ -1,11 +1,9 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    name, begin, birth, courses = stdin.readline().split()
+    name, begin, birth, courses = input().split()
 
-    print(name, end=' ')
+    print(name)
 
     if int(begin[:4]) >= 2010:
         print('eligible')

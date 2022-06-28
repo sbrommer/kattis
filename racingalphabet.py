@@ -1,25 +1,24 @@
-from sys import stdin
 from math import pi
 
 circle = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ \''
 
-n = int(stdin.readline())
+N = int(input())
 
-for _ in range(n):
-    aphorism = stdin.readline().strip()
+for _ in range(N):
+    aphorism = input()
 
-    d_letters = 0
+    ds = 0
 
     for i in range(len(aphorism) - 1):
-        i_letter1 = circle.index(aphorism[i])
-        i_letter2 = circle.index(aphorism[i+1])
+        i1 = circle.index(aphorism[i])
+        i2 = circle.index(aphorism[i+1])
 
-        d_letter = abs(i_letter2 - i_letter1)
-        d_letter = min(d_letter, 28 - d_letter)
+        d = abs(i2 - i1)
+        d = min(d, 28 - d)
 
-        d_letters += d_letter
+        ds += d
 
-    d_feet = 2 * pi * 30 * d_letters / 28
+    d_feet = 2 * pi * 30 * ds / 28
 
     time = d_feet / 15 + len(aphorism)
 

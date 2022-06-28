@@ -1,13 +1,12 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
 
-n = int(stdin.readline())
+
+N, = readints()
 
 f = set()
 
-for _ in range(n):
+for _ in range(N):
     s, t = readints()
     f.update(range(s, t+1))
 

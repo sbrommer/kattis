@@ -1,9 +1,4 @@
-from sys import stdin
+n = int(input())
+ds = list(map(int, input().split()))
 
-n = int(stdin.readline())
-ds = list(map(int, stdin.readline().split()))
-
-print(1, end=' ')
-
-for d in range(n-1):
-    print(ds.index(d) + 2, end=' ')
+print(1, *[ds.index(d) + 2 for d in range(n-1)])

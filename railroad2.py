@@ -1,5 +1,3 @@
-from sys import stdin
+y = int(input().split()[1])
 
-(x, y) = list(map(int, stdin.readline().split()))
-
-print('possible' if y % 2 == 0 else 'impossible')
+print('impossible' if y % 2 else 'possible')

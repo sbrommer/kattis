@@ -1,8 +1,6 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    line = sys.stdin.readline()
+    line = input()
     if line[:10] == 'Simon says':
-        print(line[10:-1])
+        print(line[10:])

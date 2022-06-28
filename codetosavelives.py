@@ -1,15 +1,12 @@
-o = open(0)
-
-
 def readnumber():
-    return int(''.join(o.readline().split()))
+    return int(''.join(input().split()))
 
 
 def printnumber(n):
     print(*[d for d in str(n)], sep=' ')
 
 
-t = int(o.readline())
+t = int(input())
 
 for _ in range(t):
     n1 = readnumber()

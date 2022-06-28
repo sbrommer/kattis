@@ -1,14 +1,12 @@
-o = open(0)
+v = 7
 
-volume = 7
-
-n = int(o.readline())
+n = int(input())
 
 for _ in range(n):
-    if o.readline().strip() == 'Skru op!':
-        volume = min(volume + 1, 10)
+    if input() == 'Skru op!':
+        v = min(v + 1, 10)
 
     else:
-        volume = max(volume - 1, 0)
+        v = max(v - 1, 0)
 
-print(volume)
+print(v)

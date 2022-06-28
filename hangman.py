@@ -1,23 +1,21 @@
-from sys import stdin
+def win(word, guesses):
+    guessed = set()
+    gallows = 0
 
-def readline():
-    return stdin.readline().strip()
+    for guess in guesses:
+        guessed.add(guess)
 
-word = readline()
-letters = set(word)
+        if word.issubset(guessed):
+            return True
 
-alphabet = readline()
+        gallows += guess not in word
 
-guessed = set()
-c = 0
-win = False
-for letter in alphabet:
-    guessed.add(letter)
-    if letters.issubset(guessed):
-        win = True
-    if letter not in letters:
-        c += 1
-    if c == 10:
-        break
+        if gallows == 10:
+            return False
 
-print('win' if win else 'lose')
+
+word = set(input())
+guesses = input()
+
+
+print('win' if win(word, guesses) else 'lose')

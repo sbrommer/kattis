@@ -1,15 +1,13 @@
-from sys import stdin
 from math import pi
 
-line = stdin.readline()
 
-while line != '0 0 0\n':
-    (r, m, c) = line.split()
+def readfloats():
+    return map(float, input().split())
 
-    r = float(r)
-    m = int(m)
-    c = int(c)
 
-    print(pi * r**2, (r * 2)**2 * c / m)
+r, m, c = readfloats()
 
-    line = stdin.readline()
+while r + m + c:
+    print(pi * r ** 2, (r * 2) ** 2 * c / m)
+
+    r, m, c = readfloats()
