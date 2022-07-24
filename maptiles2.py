@@ -1,10 +1,8 @@
-from sys import stdin
-
-s = stdin.readline().strip()
+s = input()
 
 z = len(s)
 
-print(z, end=' ')
+print(z)
 
 x = 0
 y = 0
@@ -14,9 +12,8 @@ for q in s:
     y *= 2
     
     q = int(q)
-    if q % 2 == 1:
-        x += 1
-    if q == 2 or q == 3:
-        y += 1
+
+    x += q % 2
+    y += q == 2 or q == 3
 
 print(x, y)

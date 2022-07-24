@@ -1,19 +1,14 @@
-from sys import stdin
-
-line = stdin.readline()
+line = input()
 
 n = len(line) // 3
 
-deck = {'P' : set(),
-        'K' : set(),
-        'H' : set(),
-        'T' : set()}
+deck = {'P': set(), 'K': set(), 'H': set(), 'T': set()}
 
 double = False
 
 for i in range(n):
-    suit = line[i*3]
-    number = int(line[i*3+1:(i+1)*3])
+    suit = line[i * 3]
+    number = int(line[i * 3 + 1:(i + 1) * 3])
 
     if number in deck[suit]:
         double = True
@@ -26,4 +21,4 @@ if double:
     print('GRESKA')
 else:
     for suit in 'PKHT':
-        print(13 - len(deck[suit]), end=' ')
+        print(13 - len(deck[suit]))

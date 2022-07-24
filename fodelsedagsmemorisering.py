@@ -1,21 +1,14 @@
-from sys import stdin
+from itertools import groupby
 
-n = int(stdin.readline())
 
-friends = list()
-birthdays = set()
+def parsefriend(line):
+    name, like, birthday = line.split()
+    day, month = birthday.split('/')
+    return (int(month), int(day), -int(like), name)
 
-for _ in range(n):
-    friend = stdin.readline().split()
-    friends.append(friend)
-    birthdays.add(friend[2])
 
-groups = [list(filter(lambda f : f[2] == b, friends)) for b in birthdays]
+friends = sorted(map(parsefriend, open(0).readlines()[1:]))
 
-friends = list(map(lambda g : max(g, key=lambda f : int(f[1])), groups))
+remember = [next(g)[3] for _, g in groupby(friends, key=lambda f: f[:2])]
 
-friends.sort()
-
-print(len(friends))
-for f in friends:
-    print(f[0])
+print(len(remember), *sorted(remember))

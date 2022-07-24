@@ -1,5 +1,4 @@
-from sys import stdin
+input()
+days = list(map(int, input().split()))
 
-stdin.readline()
-days = list(map(int, stdin.readline().split()))
 print(days.index(min(days)))

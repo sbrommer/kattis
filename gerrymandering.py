@@ -1,8 +1,6 @@
-from sys import stdin
-from math import floor
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 P, D = readints()
 
@@ -12,8 +10,8 @@ V = 0
 for _ in range(P):
     d, a, b = readints()
 
-    votes[d-1][0] += a
-    votes[d-1][1] += b
+    votes[d - 1][0] += a
+    votes[d - 1][1] += b
     V += a + b
 
 w_a = 0
@@ -21,7 +19,7 @@ w_b = 0
 
 for d in range(D):
     a, b = votes[d]
-    majority = floor((a + b) / 2) + 1
+    majority = (a + b) // 2 + 1
 
     if a > b:
         winner = 'A'
@@ -36,4 +34,3 @@ for d in range(D):
     print(winner, a, b)
 
 print(abs(w_a - w_b) / V)
-

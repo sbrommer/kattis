@@ -1,9 +1,7 @@
-from sys import stdin
-
-l, n = list(map(int, stdin.readline().split()))
+l, n = map(int, input().split())
 k = 1
 
-while l % n != 0:
+while l % n:
     k += 1
     n -= l % n
 

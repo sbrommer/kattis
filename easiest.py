@@ -1,17 +1,14 @@
-from sys import stdin
+def sod(N):
+    return sum(map(int, str(N)))
 
-def readint():
-    return int(stdin.readline())
 
-def sod(n):
-    return sum(map(int, str(n)))
-
-n = readint()
-while n != 0:
+N = int(input())
+while N:
     p = 11
-    while sod(p*n) != sod(n):
+
+    while sod(p * N) != sod(N):
         p += 1
 
     print(p)
 
-    n = readint()
+    N = int(input())

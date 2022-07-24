@@ -1,17 +1,13 @@
-from sys import stdin
+def readcup():
+    a, b = input().split()
 
-n = int(stdin.readline())
-
-cups = []
-
-for _ in range(n):
-    a, b = stdin.readline().split()
     if a.isnumeric():
-        cups.append((b, int(a) / 2))
-    if b.isnumeric():
-        cups.append((a, int(b)))
+        return int(a) / 2, b
 
-cups.sort(key=lambda cup: cup[1])
+    return int(b), a
 
-for cup in cups:
-    print(cup[0])
+
+n = int(input())
+
+cups = sorted([readcup() for _ in range(n)])
+print(*(cup[1] for cup in cups))

@@ -1,18 +1,13 @@
-o = open(0)
-
-def readint():
-    return int(o.readline())
-
-n = readint()
+n = int(input())
 i = 0
 
 while i < n - 2:
-    divisor  = readint()
-    dividend = readint()
+    divisor = int(input())
+    dividend = int(input())
     i += 2
 
     while i < n and dividend % divisor:
-        dividend = readint()
+        dividend = int(input())
         i += 1
 
     if i < n:

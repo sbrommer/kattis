@@ -1,14 +1,7 @@
-import sys
+N = int(input())
+M = int(input())
 
-n = int(sys.stdin.readline())
-m = int(sys.stdin.readline())
+k, m = divmod(M, N)
 
-k = m // n
-
-m_ = m - k*n                        
-
-for _ in range(m_):
-    print('*' * (k+1))
-
-for _ in range(n - m_):
-    print('*' * k)
+for i in range(N):
+    print('*' * (k + (i < m)))

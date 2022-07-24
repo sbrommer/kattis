@@ -1,17 +1,14 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 
 alphabet = set('abcdefghijklmnopqrstuvwxyz')
 
 for _ in range(n):
-    phrase = stdin.readline()
-    phrase = set(map(lambda c: c.lower(), phrase))
+    phrase = set(map(str.lower, input()))
     missing = alphabet - phrase
 
-    if len(missing) == 0:
+    missing = ''.join(sorted(list(missing)))
+
+    if not missing:
         print('pangram')
     else:
-        missing =  list(missing)
-        missing.sort()
-        print('missing', ''.join(missing))
+        print('missing', missing)

@@ -1,10 +1,11 @@
-from sys import stdin
 from math import pi, tan, degrees
 
-def readints():
-    return list(map(int, stdin.readline().split()))
 
-N = int(stdin.readline())
+def readints():
+    return map(int, input().split())
+
+
+N, = readints()
 
 for _ in range(N):
     n, l, d, g = readints()

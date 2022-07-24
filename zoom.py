@@ -1,10 +1,8 @@
-o = open(0)
-
 def readints():
-    return [int(c) for c in o.readline().split()]
+    return [int(c) for c in input().split()]
 
 
 n, k = readints()
-xs = readints()
+xs = list(readints())
 
-print(*[x for x in xs[k-1::k]])
+print(*xs[k - 1::k])

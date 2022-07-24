@@ -1,29 +1,22 @@
-import sys
+from collections import defaultdict
 
-line = sys.stdin.readline()[:-1]
+line = input()
 
-entries = {}
+entries = defaultdict(int)
 rights = set()
 
 while line != '-1':
-    (m, p, w) = line.split()
-    m = int(m)
-
-    if p not in entries.keys():
-        entries[p] = 0
+    m, p, w = line.split()
 
     if w == 'wrong':
         entries[p] += 20
 
     else:
-        entries[p] += m
+        entries[p] += int(m)
         rights.add(p)
 
-    line = sys.stdin.readline()[:-1]
+    line = input()
 
-points = 0
-
-for right in rights:
-    points += entries[right]
+points = sum(map(entries.get, rights))
 
 print(len(rights), points)

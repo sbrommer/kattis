@@ -1,7 +1,6 @@
-from sys import stdin
-
 def readfraction():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 n, d = readfraction()
 while (n, d) != (0, 0):

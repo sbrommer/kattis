@@ -1,11 +1,7 @@
-from sys import stdin
 from math import ceil
 
-def readint():
-    return int(stdin.readline())
+T = int(input())
 
-t = readint()
-
-for _ in range(t):
-    n = readint()
-    print(ceil(n / 400))
+for _ in range(T):
+    N = int(input())
+    print(ceil(N / 400))

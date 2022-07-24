@@ -1,9 +1,7 @@
-from sys import stdin
-
-T = int(stdin.readline())
+T = int(input())
 
 for _ in range(T):
-    n = list(map(int, stdin.readline().strip()))
+    n = list(map(int, input()))
 
     for i in range(len(n)):
         if not (i + len(n)) % 2:

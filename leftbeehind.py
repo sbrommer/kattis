@@ -1,7 +1,6 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 x, y = readints()
 while (x, y) != (0, 0):

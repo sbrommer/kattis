@@ -1,22 +1,20 @@
-from sys import stdin
+from operator import eq
 
-n = int(stdin.readline())
-answers = stdin.readline()[:-1]
+n = int(input())
+answers = input()
 
 guesses = ['ABC', 'BABC', 'CCAABB']
-correct = [0, 0, 0]
-names   = ['Adrian', 'Bruno', 'Goran']
+scores = [0, 0, 0]
+names = ['Adrian', 'Bruno', 'Goran']
 
 for i in range(n):
     for j in range(3):
-        guess = guesses[j]
-        if answers[i] == guess[i % len(guess)]:
-            correct[j] += 1
+        scores[j] = sum(map(eq, answers, guesses[j] * 34))
 
-m = max(correct)
+m = max(scores)
 
 print(m)
 
 for i in range(3):
-    if correct[i] == m:
+    if scores[i] == m:
         print(names[i])

@@ -1,10 +1,5 @@
-from sys import stdin
-
-def unshift(i):
-    return chr(ord('A') + i)
-
-m = stdin.readline().strip()
-k = stdin.readline().strip()
+m = input()
+k = input()
 c = ''
 
 for i in range(len(m)):

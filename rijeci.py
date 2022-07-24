@@ -1,6 +1,4 @@
-from sys import stdin
-
-k = int(stdin.readline())
+k = int(input())
 
 a, b = 1, 0
 

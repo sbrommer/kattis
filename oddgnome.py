@@ -1,14 +1,15 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, input().split()))
 
-n = int(stdin.readline())
 
-for _ in range(n):
-    _, *gnomes = readints()
+def getking(ints):
+    g, *gnomes = ints
 
-    for i in range(len(gnomes)):
-        if gnomes[i] + 1 != gnomes[i+1]:
-            print(i+2)
-            break
+    for i in range(g):
+        if gnomes[i] + 1 != gnomes[i + 1]:
+            return i + 2
+
+
+n, = readints()
+
+print(*[getking(readints()) for _ in range(n)])

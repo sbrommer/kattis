@@ -1,16 +1,17 @@
-from sys import stdin
 from math import sqrt
 
-ix = 9 * [(0,0)]
+# read pattern
+ix = [None] * 9
 
 for i in range(3):
-    row = list(map(int, stdin.readline().split()))
+    row = [int(n) for n in input().split()]
     for j in range(3):
         ix[row[j] - 1] = (i, j)
 
+# calculate distance
 l = 0
 
-for i in range(len(ix) - 1):
+for i in range(8):
     n1, n2 = ix[i], ix[i+1]
 
     dx = n2[0] - n1[0]

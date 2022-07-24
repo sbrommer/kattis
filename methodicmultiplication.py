@@ -1,12 +1,5 @@
-from sys import stdin
+n = input().count('S')
+m = input().count('S')
+p = n * m
 
-n = stdin.readline().count('S')
-m = stdin.readline().count('S')
-
-for _ in range(n * m):
-    print('S(', end='')
-
-print(0, end='')
-
-for _ in range(n * m):
-    print(')', end='')
+print('S(' * p, 0, ')' * p, sep='')

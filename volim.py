@@ -1,19 +1,15 @@
-from sys import stdin
-
-K = int(stdin.readline())
-N = int(stdin.readline())
+K = int(input())
+N = int(input())
 
 t = 0
 
 for _ in range(N):
-    T, Z = stdin.readline().strip().split()
+    T, Z = input().split()
 
     t += int(T)
     if t >= 3 * 60 + 30:
-        break
+        break  # boom
 
     K += Z == 'T'
 
-K %= 8
-
-print(8 if K == 0 else K)
+print(K % 8 or 8)
