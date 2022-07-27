@@ -1,6 +1,4 @@
-from sys import stdin
-
-ns = list(map(int, stdin.readline().split()))
+ns = list(map(int, input().split()))
 
 ns.sort()
 

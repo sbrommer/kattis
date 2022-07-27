@@ -1,8 +1,6 @@
-from sys import stdin
-
 ab = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ_.'
 
-line = stdin.readline().strip()
+line = input()
 
 while line != '0':
     n, s = line.split()
@@ -13,4 +11,4 @@ while line != '0':
     
     print(s)
     
-    line = stdin.readline().strip()
+    line = input()

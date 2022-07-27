@@ -1,9 +1,5 @@
-from sys import stdin
+s = input()
 
-s = stdin.readline().strip()
-
-n_odd = 0
-for c in set(s):
-    n_odd += s.count(c) % 2
+n_odd = sum(s.count(c) % 2 for c in set(s))
 
 print(max(0, n_odd - 1))

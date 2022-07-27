@@ -1,22 +1,28 @@
-from sys import stdin
-
 def get_pieces():
-    pieces = stdin.readline()[6:].strip()
+    pieces = input()[6:].strip()
 
     if not pieces:
         return []
     else:
-        add_pawn = lambda p : p if len(p) == 3 else 'P' + p
+        def add_pawn(p):
+            return p if len(p) == 3 else 'P' + p
+
+
         return list(map(add_pawn, pieces.split(',')))
 
+
 # Make empty board
-line  = '+---' * 8 + '+'
+line = '+---' * 8 + '+'
 white = '|...|:::' * 4 + '|'
 black = '|:::|...' * 4 + '|'
 board = list(map(list, [line, white, line, black] * 4 + [line]))
 
+
 # Get pieces
-lower_piece = lambda p : p[0].lower() + p[1:]
+def lower_piece(p):
+    return p[0].lower() + p[1:]
+
+
 pieces = get_pieces() + list(map(lower_piece, get_pieces()))
 
 # Place pieces on board

@@ -1,13 +1,14 @@
-from sys import stdin
 from math import sqrt, atan, degrees
 
+
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, input().split()))
 
-input = readints()
 
-while sum(input) > 0:
-    a, b, s, m, n = input
+i = readints()
+
+while sum(i) > 0:
+    a, b, s, m, n = i
 
     d_h = a * m
     d_v = b * n
@@ -18,4 +19,4 @@ while sum(input) > 0:
 
     print("%.2f" % A, "%.2f" % v)
 
-    input = readints()
+    i = readints()

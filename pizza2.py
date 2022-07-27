@@ -1,5 +1,3 @@
-from sys import stdin
+r, c = map(int, input().split())
 
-r, c = list(map(int, stdin.readline().split()))
-
-print(100 * (r-c)**2 / r**2)
+print(100 * (r - c) ** 2 / r ** 2)

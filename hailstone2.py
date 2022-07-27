@@ -1,6 +1,4 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 l = 1
 
 while n != 1:

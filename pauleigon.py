@@ -1,5 +1,3 @@
-from sys import stdin
-
-N, P, Q = list(map(int, stdin.readline().split()))
+N, P, Q = map(int, input().split())
 
 print('opponent' if (P + Q) // N % 2 else 'paul')

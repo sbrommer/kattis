@@ -1,8 +1,6 @@
-from sys import stdin
-
-stones = stdin.readline()
+stones = input()
 
 w = stones.count('W')
 b = stones.count('B')
 
-print(1 if w == b else 0)
+print(int(w == b))

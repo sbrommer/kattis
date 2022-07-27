@@ -1,9 +1,7 @@
-from sys import stdin
-
-P = int(stdin.readline())
+P = int(input())
 
 for _ in range(P):
-    K, N = list(map(int, stdin.readline().split()))
+    K, N = map(int, input().split())
     b = bin(N)[2:]
 
     p = 0

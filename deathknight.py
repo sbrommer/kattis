@@ -1,10 +1,5 @@
-from sys import stdin
+n = int(input())
 
-n = int(stdin.readline())
-won = 0
-
-for _ in range(n):
-    battle = stdin.readline().strip()
-    won += 'CD' not in battle
+won = sum('CD' not in input() for _ in range(n))
 
 print(won)

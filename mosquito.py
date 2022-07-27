@@ -1,12 +1,14 @@
-from sys import stdin
+o = open(0)
+
 
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, open(0).readline().split()))
 
-input = readints()
 
-while len(input) > 0:
-    M, P, L, E, R, S, N = input
+i = readints()
+
+while len(i) > 0:
+    M, P, L, E, R, S, N = i
 
     for _ in range(N):
         C = P // S
@@ -16,4 +18,4 @@ while len(input) > 0:
 
     print(M)
 
-    input = readints()
+    i = readints()

@@ -1,12 +1,10 @@
-from sys import stdin
-
-stdin.readline()
-song = set(stdin.readline().split())
+input()
+song = set(input().split())
 
 notes = ['A', 'A#', 'B', 'C', 'C#', 'D',
          'D#', 'E', 'F', 'F#', 'G', 'G#']
 
-major = [0,2,4,5,7,9,11]
+major = [0, 2, 4, 5, 7, 9, 11]
 
 scales = []
 for n in range(12):

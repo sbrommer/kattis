@@ -1,6 +1,4 @@
-from sys import stdin
-
-s = int(stdin.readline())
+s = int(input())
 
 print(str(s) + ':')
 

@@ -1,17 +1,13 @@
-from sys import stdin
-
-def readint():
-    return int(stdin.readline())
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, input().split()))
 
-n = readint()
 
-for i in range(1, n+1):
-    print('Case #' + str(i) + ':', end=' ')
+n, = readints()
 
-    g = readint()
+for i in range(1, n + 1):
+    print('Case #' + str(i) + ':')
+
+    g, = readints()
     cs = readints()
 
     c_set = set()
@@ -23,4 +19,3 @@ for i in range(1, n+1):
             c_set.remove(c)
 
     print(list(c_set)[0])
-

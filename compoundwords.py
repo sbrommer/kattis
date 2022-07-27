@@ -1,8 +1,9 @@
-from sys import stdin
-from itertools import product
+o = open(0)
+
 
 def readline():
-    return stdin.readline().strip()
+    return o.readline().strip()
+
 
 words = set()
 
@@ -21,5 +22,4 @@ for word1 in words:
 compound = list(compound)
 compound.sort()
 
-for word in compound:
-    print(word)
+print(*compound)

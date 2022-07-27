@@ -1,11 +1,6 @@
-from sys import stdin
+n = int(input())
 
-n = int(stdin.readline())
-
-names = []
-
-for _ in range(n):
-    names.append(stdin.readline())
+names = [input() for _ in range(n)]
 
 if names == sorted(names):
     print('INCREASING')

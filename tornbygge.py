@@ -1,10 +1,8 @@
-from sys import stdin
+from operator import gt
 
-N = int(stdin.readline())
-xs = list(map(int, stdin.readline().split()))
+N = int(input())
+xs = list(map(int, input().split()))
 
-t = 1
-for i in range(N-1):
-    t += xs[i+1] > xs[i]
+t = 1 + sum(map(gt, xs[1:], xs))
 
 print(t)

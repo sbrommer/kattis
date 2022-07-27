@@ -1,8 +1,6 @@
-from sys import stdin
+words = input().split()
 
-words = stdin.readline().split()
-
-aes = list(filter(lambda word : 'ae' in word, words))
+aes = list(filter(lambda word: 'ae' in word, words))
 
 if len(aes) / len(words) >= .4:
     print('dae ae ju traeligt va')

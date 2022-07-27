@@ -1,17 +1,14 @@
-from sys import stdin
-
 def h_words(puzzle):
     words = set()
     for p in puzzle:
-        words.update(filter(lambda w : len(w) >= 2,
+        words.update(filter(lambda w: len(w) >= 2,
                             p.split('#')))
     return words
 
-R = int(stdin.readline().split()[0])
 
-puzzle = []
-for _ in range(R):
-    puzzle.append(stdin.readline().strip())
+R = int(input().split()[0])
+
+puzzle = [input() for _ in range(R)]
 
 puzzle_T = map(''.join, zip(*puzzle))
 

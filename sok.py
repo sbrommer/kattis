@@ -1,7 +1,5 @@
-from sys import stdin
-
-A, B, C = list(map(int, stdin.readline().split()))
-I, J, K = list(map(int, stdin.readline().split()))
+A, B, C = map(int, input().split())
+I, J, K = map(int, input().split())
 
 n = min(A / I, B / J, C / K)
 

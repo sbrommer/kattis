@@ -1,16 +1,15 @@
 # parse
-o = open(0)
-n = int(o.readline())
+n = int(input())
 
 relayers = []
 starters = []
 
 for _ in range(n):
-    runner, t_start, t_relay = o.readline().split()
+    runner, t_start, t_relay = input().split()
     starters.append((runner, float(t_start)))
     relayers.append((runner, float(t_relay)))
 
-relayers.sort(key = lambda r: r[1])
+relayers.sort(key=lambda r: r[1])
 
 # search
 best_time = 100
@@ -26,4 +25,4 @@ for starter in starters:
         best_time = time
         best_runners = [r[0] for r in runners]
 
-print(best_time, *best_runners, sep='\n')
+print(best_time, *best_runners)

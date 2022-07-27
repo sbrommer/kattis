@@ -1,14 +1,13 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 n, T = readints()
-ts = readints()
+ts = list(readints())
 
 i = 0
 
-while i < n and T-ts[i] >= 0:
+while i < n and T - ts[i] >= 0:
     T -= ts[i]
     i += 1
 

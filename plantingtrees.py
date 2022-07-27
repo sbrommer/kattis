@@ -1,9 +1,7 @@
-from sys import stdin
-
-n = int(stdin.readline())
-ts = list(map(int, stdin.readline().split()))
+n = int(input())
+ts = list(map(int, input().split()))
 ts.sort(reverse=True)
 
-ts = [ts[i]+i+1 for i in range(n)]
+ts = [ts[i] + i + 1 for i in range(n)]
 
-print(max(ts)+1)
+print(max(ts) + 1)

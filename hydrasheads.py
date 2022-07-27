@@ -1,6 +1,4 @@
-from sys import stdin
-
-H, T = list(map(int, stdin.readline().split()))
+H, T = map(int, input().split())
 
 while (H, T) != (0, 0):
     # Cut as many H as possible.
@@ -24,4 +22,4 @@ while (H, T) != (0, 0):
 
         print(S)
 
-    H, T = list(map(int, stdin.readline().split()))
+    H, T = map(int, input().split())

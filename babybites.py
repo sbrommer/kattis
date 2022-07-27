@@ -1,7 +1,5 @@
-from sys import stdin
-
-n = int(stdin.readline())
-mumbles = stdin.readline().split()
+input()
+mumbles = input().split()
 
 makes_sense = [m == 'mumble' or int(m) == i + 1 for i, m in enumerate(mumbles)]
 

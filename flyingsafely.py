@@ -1,9 +1,8 @@
-from sys import stdin
-
 def readints():
-    return tuple(map(int, stdin.readline().split()))
+    return map(int, input().split())
 
-t = int(stdin.readline().strip())
+
+t = int(input())
 
 for _ in range(t):
     n, m = readints()

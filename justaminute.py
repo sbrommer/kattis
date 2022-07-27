@@ -1,12 +1,10 @@
-from sys import stdin
-
-N = int(stdin.readline())
+N = int(input())
 
 m = 0
 s = 0
 
 for _ in range(N):
-    M, S = list(map(int, stdin.readline().split()))
+    M, S = map(int, input().split())
     m += M
     s += S
 
