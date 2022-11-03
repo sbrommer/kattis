@@ -1,7 +1,5 @@
-from sys import stdin
-
-stdin.readline()
-xs = list(map(int, stdin.readline().split()))
+input()
+xs = list(map(int, input().split()))
 
 xs.sort(reverse = True)
 alice = sum(xs[::2])

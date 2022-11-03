@@ -1,13 +1,10 @@
-import sys
-
-m = int(sys.stdin.readline())
+m = int(input())
 
 while m != 0:
-    (x, y)   = (0, 0)
-    (w_, h_) = (0, 0)
+    x, y   = (0, 0)
+    w_, h_ = (0, 0)
 
-    line = sys.stdin.readline()
-    (w, h) = list(map(int, line.split()))
+    w, h = list(map(int, input().split()))
 
     while (w, h) != (-1, -1):
         if x + w <= m:
@@ -19,9 +16,8 @@ while m != 0:
         w_ = max(w_, x)
         h_ = max(h_, y + h)
 
-        line = sys.stdin.readline()
-        (w, h) = list(map(int, line.split()))
+        w, h = list(map(int, input().split()))
 
     print(w_, 'x', h_)
 
-    m = int(sys.stdin.readline())
+    m = int(input())

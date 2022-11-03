@@ -1,9 +1,7 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    m, *cs = list(map(int, stdin.readline().split()))
+    m, *cs = list(map(int, input().split()))
     x = cs[0::2]
     y = cs[1::2]
 

@@ -1,18 +1,16 @@
-from sys import stdin
-
-T = int(stdin.readline())
+T = int(input())
 
 for t in range(T):
-    R, P, D = list(map(int, stdin.readline().split()))
+    R, P, D = map(int, input().split())
 
-    print('Recipe #', t+1)
+    print('Recipe #', t + 1)
 
     f = D / P
 
     # Get ingredients
     ingredients = []
     for _ in range(R):
-        n, w, p = stdin.readline().split()
+        n, w, p = input().split()
         w = float(w)
         p = float(p)
 

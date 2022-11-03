@@ -1,4 +1,4 @@
-from sys import stdin
+o = open(0)
 
 c_to_m = {'A' : '.-'   , 'B' : '-...' , 'C' : '-.-.' ,
           'D' : '-..'  , 'E' : '.'    , 'F' : '..-.' ,
@@ -11,9 +11,9 @@ c_to_m = {'A' : '.-'   , 'B' : '-...' , 'C' : '-.-.' ,
           'Y' : '-.--' , 'Z' : '--..' , '_' : '..--' ,
           ',' : '.-.-' , '.' : '---.' , '?' : '----'}
 
-m_to_c = dict([(m, c) for (c, m) in c_to_m.items()])
+m_to_c = dict([(m, c) for c, m in c_to_m.items()])
 
-line = stdin.readline().strip()
+line = o.readline().strip()
 
 while line != '':
     morse = list(map(lambda c : c_to_m[c], line))
@@ -30,4 +30,4 @@ while line != '':
 
     print(line)
 
-    line = stdin.readline().strip()
+    line = o.readline().strip()

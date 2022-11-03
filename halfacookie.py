@@ -1,8 +1,9 @@
-from sys import stdin
 from math import sqrt, acos, pi, sin
 
+o = open(0)
+
 def readfloats():
-    return list(map(float, stdin.readline().split()))
+    return list(map(float, o.readline().split()))
 
 fs = readfloats()
 

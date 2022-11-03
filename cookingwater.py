@@ -1,11 +1,8 @@
-# parse input
-o = open(0)
-
-N = int(o.readline())
+N = int(input())
 
 
 def readints():
-    return list(map(int, o.readline().split()))
+    return list(map(int, input().split()))
 
 
 # initialise

@@ -1,7 +1,6 @@
-from sys import stdin
-
 def readint():
-    return int(stdin.readline())
+    return int(input())
+
 
 T = readint()
 

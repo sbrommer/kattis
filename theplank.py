@@ -11,6 +11,6 @@ def subsetsum(n):
 
     return memo[n]
 
-n = int(open(0).readline())
+n = int(input())
 
 print(subsetsum(n))

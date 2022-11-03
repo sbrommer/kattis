@@ -1,13 +1,15 @@
-from sys import stdin
+o = open(0)
+
 
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, o.readline().split()))
 
-input = readints()
+
+inp = readints()
 c = 1
 
-while len(input) > 0:
-    e, m = input
+while len(inp) > 0:
+    e, m = inp
     d = 0
 
     while e % 365 != m % 687:
@@ -19,4 +21,4 @@ while len(input) > 0:
     print(':', d)
 
     c += 1
-    input = readints()
+    inp = readints()

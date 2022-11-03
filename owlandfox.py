@@ -1,9 +1,7 @@
-from sys import stdin
-
-T = int(stdin.readline())
+T = int(input())
 
 for _ in range(T):
-    N = list(stdin.readline().strip())
+    N = list(input().strip())
 
     for i in range(len(N) - 1, -1, -1):
         if N[i] != '0':

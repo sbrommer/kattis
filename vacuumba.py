@@ -1,18 +1,17 @@
-from sys import stdin
-import math
+from math import radians, sin, cos
 
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    m = int(stdin.readline())
+    m = int(input())
 
     x, y, th = 0, 0, 0
 
     for i in range(m):
-        a, d = list(map(float, stdin.readline().split()))
+        a, d = map(float, input().split())
 
-        th -= math.radians(a)
-        x += math.sin(th) * d
-        y += math.cos(th) * d
+        th -= radians(a)
+        x += sin(th) * d
+        y += cos(th) * d
 
     print(x, y)

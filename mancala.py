@@ -1,5 +1,3 @@
-from sys import stdin
-
 def solve(n):
     bins = [n] + [0] * 80
 
@@ -15,10 +13,11 @@ def solve(n):
 
     return bins[1:b+1]
 
-p = int(stdin.readline())
+
+p = int(input())
 
 for _ in range(p):
-    (k, n) = list(map(int, stdin.readline().split()))
+    k, n = map(int, input().split())
 
     bins = solve(n)
     b = len(bins)

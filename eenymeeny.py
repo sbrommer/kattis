@@ -1,13 +1,10 @@
-from sys import stdin
 from math import ceil
 
 # Read input
-r = len(stdin.readline().split())
-n = int(stdin.readline())
+r = len(input().split())
+n = int(input())
 
-kids = []
-for _ in range(n):
-    kids.append(stdin.readline().strip())
+kids = [input() for _ in range(n)]
 
 # Select teams - print green right away,
 # print blue later.

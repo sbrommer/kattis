@@ -1,6 +1,6 @@
-from sys import stdin
+o = open(0)
 
-line = stdin.readline()
+line = o.readline()
 
 n = (len(line) + 1) // 6
 ascii = n * ['']
@@ -8,7 +8,7 @@ ascii = n * ['']
 for _ in range(7):
     for i in range(n):
         ascii[i] += line[6*i:6*(i+1)-1]
-    line = stdin.readline()
+    line = o.readline()
 
 a2c = { 'xxxxxx...xx...xx...xx...xx...xxxxxx' : '0',
         '....x....x....x....x....x....x....x' : '1',

@@ -1,7 +1,5 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return list(map(int, input().split()))
 
 w, p = readints()
 ls = readints()

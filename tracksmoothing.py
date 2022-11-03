@@ -10,7 +10,7 @@ def distance(coords):
     return sqrt((q[0] - p[0]) ** 2 + (q[1] - p[1]) ** 2)
 
 
-t = readints()[0]
+t, = readints()
 
 for _ in range(t):
     r, n = readints()

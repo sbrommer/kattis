@@ -1,15 +1,12 @@
-from sys import stdin
+from collections import defaultdict
 
 def get_report():
-    report = dict()
+    report = defaultdict(lambda: set())
 
     for _ in range(n):
-        name, *items = stdin.readline().split()
+        name, *items = input().split()
 
         for item in items:
-            if item not in report.keys():
-                report[item] = set()
-
             report[item].add(name)
 
     return report
@@ -23,15 +20,13 @@ def print_report(report):
 
         names = list(report[item])
         names.sort()
-        for name in names:
-            print(name, end=' ')
-        print()
+        print(*names, sep=' ')
     print()
 
-n = int(stdin.readline())
+n = int(input())
 
 while n:
     report = get_report()
     print_report(report)
 
-    n = int(stdin.readline())
+    n = int(input())

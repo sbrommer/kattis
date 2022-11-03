@@ -1,9 +1,4 @@
-from sys import stdin
-
-d_list = []
-
-for _ in range(9):
-    d_list.append(int(stdin.readline()))
+d_list = [int(input()) for _ in range(9)]
 
 d_set = set(d_list)
 

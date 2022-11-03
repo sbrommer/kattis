@@ -1,7 +1,6 @@
-from sys import stdin
-
 def readints():
-    return list(map(int, stdin.readline().split()))
+    return map(int, input().split())
+
 
 def parse_tree():
     tree = {}
@@ -13,15 +12,17 @@ def parse_tree():
 
     return tree
 
+
 def parent(tree, node):
     for A, Bs in tree.items():
         if node in Bs:
             return A
     return -1
 
-kitten = readints()[0]
+
+kitten, = readints()
 tree = parse_tree()
 
 while kitten >= 0:
-    print(kitten, end=' ')
+    print(kitten)
     kitten = parent(tree, kitten)

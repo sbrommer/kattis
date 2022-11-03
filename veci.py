@@ -1,7 +1,6 @@
-from sys import stdin
 from itertools import permutations
 
-X = stdin.readline().strip()
+X = input()
 xs = tuple(map(int, X))
 
 bigger = set()

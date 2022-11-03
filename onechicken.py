@@ -1,6 +1,4 @@
-from sys import stdin
-
-n, m = list(map(int, stdin.readline().split()))
+n, m = map(int, input().split())
 
 pq = m - n
 

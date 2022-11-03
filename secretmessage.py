@@ -1,13 +1,12 @@
-from sys import stdin
 from math import ceil, sqrt
 
-n = int(stdin.readline())
+n = int(input())
 
 for _ in range(n):
-    original = stdin.readline().strip()
+    original = input()
 
     l = len(original)
-    m = ceil(sqrt(l))**2
+    m = ceil(sqrt(l)) ** 2
     k = int(sqrt(m))
 
     original += '*' * (m-l)

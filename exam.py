@@ -1,11 +1,10 @@
-from sys import stdin
 from operator import not_
 
 # her good answers
-k = int(stdin.readline())
+k = int(input())
 
-my_answers = stdin.readline().strip()
-her_answers = stdin.readline().strip()
+my_answers = input()
+her_answers = input()
 
 same_answers = [a == b for (a, b) in zip(my_answers, her_answers)]
 

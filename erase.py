@@ -1,10 +1,8 @@
-from sys import stdin
-
-n = int(stdin.readline())
+n = int(input())
 m = n % 2 == 0
 
-before = list(map(int, stdin.readline().strip()))
-after = list(map(int, stdin.readline().strip()))
+before = list(map(int, input()))
+after = list(map(int, input()))
 
 succeeded = True
 

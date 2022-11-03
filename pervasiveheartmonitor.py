@@ -1,5 +1,7 @@
-from sys import stdin
 from statistics import mean
+
+o = open(0)
+
 
 def is_float(s):
     try:
@@ -8,13 +10,14 @@ def is_float(s):
     except ValueError:
         return False
 
-line = stdin.readline().split()
+
+line = o.readline().split()
 
 while line:
-    name = filter(lambda s : not is_float(s), line)
+    name = filter(lambda s: not is_float(s), line)
     hr = map(float, filter(is_float, line))
 
     print(mean(hr), end=' ')
     print(' '.join(name))
 
-    line = stdin.readline().split()
+    line = o.readline().split()

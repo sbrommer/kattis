@@ -1,12 +1,10 @@
-from sys import stdin
-
-N = int(stdin.readline())
+N = int(input())
 
 TB = 2 * N
 LR = 2 * N
 
 for _ in range(N):
-    T, B, L, R = list(map(int, stdin.readline().strip()))
+    T, B, L, R = list(map(int, input().strip()))
 
     TB -= T + B
     LR -= L + R

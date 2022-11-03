@@ -1,5 +1,3 @@
-from sys import stdin
-
 def fraction(n, cs):
     f = 1
 
@@ -11,8 +9,9 @@ def fraction(n, cs):
 
     return f
 
-n = int(stdin.readline())
-cs = list(map(int, stdin.readline().split()))
+
+n = int(input())
+cs = list(map(int, input().split()))
 cs.sort()
 
 f = fraction(n, cs)

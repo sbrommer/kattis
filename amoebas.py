@@ -1,10 +1,8 @@
-from sys import stdin
-
 def neighbours(i, j):
     d = [-1, 0, 1]
     return set(sum([[(i+di, j+dj) for di in d] for dj in d], []))
 
-# Depth-first search
+
 def dfs(dish, pixel):
     amoeba = set()
     unvisited = set([pixel])
@@ -15,18 +13,18 @@ def dfs(dish, pixel):
         amoeba.add(pixel)
         unvisited.remove(pixel)
 
-        unvisited |= set(filter(lambda n : n in dish and not n in amoeba,\
+        unvisited |= set(filter(lambda n: n in dish and n not in amoeba,
                                 neighbours(*pixel)))
 
     return amoeba
 
 
 # Read dish
-m, n = list(map(int, stdin.readline().split()))
+m, n = map(int, input().split())
 
 dish = set()
 for i in range(m):
-    line = stdin.readline()
+    line = input()
     for j in range(n):
         if line[j] == '#':
             dish.add((i, j))
