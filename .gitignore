@@ -2,3 +2,4 @@
 .DS_Store
 in.txt
 *.h
+make_readme.py
