@@ -370,6 +370,7 @@
 |[Simple Cron Spec](https://open.kattis.com/problems/simplecronspec)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/simplecronspec.py)|
 |[Sith](https://open.kattis.com/problems/sith)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/sith.py)|
 |[Sjecista](https://open.kattis.com/problems/sjecista)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/sjecista.py)|
+|[Skammstöfun](https://open.kattis.com/problems/skammstofun)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/skammstofun.py)|
 |[Skener](https://open.kattis.com/problems/skener)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/skener.py)|
 |[Skocimis](https://open.kattis.com/problems/skocimis)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/skocimis.py)|
 |[Sky Islands](https://open.kattis.com/problems/skyislands)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/skyislands.py)|
