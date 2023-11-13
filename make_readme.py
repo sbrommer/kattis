@@ -37,7 +37,7 @@ df_problems['extension'] = df_problems['link name'].map(files)
 # create READMIE
 f = open('README.md', 'w')
 
-print(f'[points distribution plot](https://github.com/sbrommer/kattis/blob/main/plot.png)')
+print(f'![points distribution plot](https://github.com/sbrommer/kattis/blob/main/plot.png?raw=true)', file=f)
 
 print('|Problem|Difficulty|Solution|', file=f)
 print('|---|---|---|', file=f)

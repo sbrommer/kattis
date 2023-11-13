@@ -1,3 +1,4 @@
+![points distribution plot](https://github.com/sbrommer/kattis/blob/main/plot.png?raw=true)
 |Problem|Difficulty|Solution|
 |---|---|---|
 |[2048](https://open.kattis.com/problems/2048)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/2048.py)|
