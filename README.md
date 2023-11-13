@@ -318,6 +318,7 @@
 |[Preludes](https://open.kattis.com/problems/chopin)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/chopin.py)|
 |[Prerequisites?](https://open.kattis.com/problems/prerequisites)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/prerequisites.py)|
 |[Printing Costs](https://open.kattis.com/problems/printingcosts)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/printingcosts.py)|
+|[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/prjonamynstur.py)|
 |[Progressive Scramble](https://open.kattis.com/problems/progressivescramble)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/progressivescramble.py)|
 |[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/provincesandgold.py)|
 |[Prozor](https://open.kattis.com/problems/prozor)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/prozor.py)|
