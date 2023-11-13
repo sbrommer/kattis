@@ -17,7 +17,7 @@ kt.plot_problems(filepath='plot.png', show_partial=False)
 
 # read from files
 ignore = set(['.DS_Store', '.gitattributes', '.gitignore',
-              'README.md', 'in.txt', 'ak.py', 'plot.png'])
+              'README.md', 'in.txt', 'make_readme.py', 'plot.png'])
 file_names = set(f for f in listdir('.')
                  if isfile(f) and f not in ignore and f[-2:] != '.h')
 files = {f.split('.')[0]: f.split('.')[1] for f in file_names}
