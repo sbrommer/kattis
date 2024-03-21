@@ -3,3 +3,5 @@
 in.txt
 *.h
 make_readme.py
+submit.py
+.kattisrc
