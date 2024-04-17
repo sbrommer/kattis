@@ -1,19 +1,20 @@
 from statistics import mean
 
-o = open(0)
-
 
 def readints():
-    return [int(n) for n in o.readline().split()]
+    return [int(n) for n in input().split()]
 
 
 T, = readints()
 
 for _ in range(T):
-    for _ in range(2):
-        o.readline()
+    input()
+    input()
 
     cs = readints()
     es = readints()
 
-    print(sum(mean(es) < c < mean(cs) for c in cs))
+    μc = mean(cs)
+    μe = mean(es)
+
+    print(sum(μe < c < μc for c in cs))
