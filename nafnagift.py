@@ -1,20 +1,43 @@
-def name(A, B):
-    if not A:
-        return B
+from functools import cache
 
-    if not B:
-        return A
-
-    names = [A[0] + name(A[1:], B),
-             B[0] + name(A, B[1:])]
-
-    if A[0] == B[0]:
-        names += [A[0] + name(A[1:], B[1:])]
-
-    return min(names, key=len)
+A, B = input(), input()
 
 
-A = input()
-B = input()
+# Memoize length of shortest common subsequence
+@cache
+def scs(i, j):
+    if not i:
+        return j
+    if not j:
+        return i
 
-print(name(A, B))
+    if A[i-1] == B[j-1]:
+        return scs(i-1, j-1) + 1
+
+    return min(scs(i-1, j), scs(i, j-1)) + 1
+
+
+# Fill bottom-up
+for i in range(len(A)+1):
+    for j in range(len(B)+1):
+        scs(i, j)
+
+# Construct name top-down
+i, j = len(A), len(B)
+name = ''
+
+while i and j:
+    if A[i-1] == B[j-1]:
+        name = A[i-1] + name
+        i -= 1
+        j -= 1
+    elif scs(i-1, j) < scs(i, j-1):
+        name = A[i-1] + name
+        i -= 1
+    else:
+        name = B[j-1] + name
+        j -= 1
+
+name = A[:i] + B[:j] + name
+
+print(name)
