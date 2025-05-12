@@ -12,8 +12,8 @@ for _ in range(Q):
             wealth[i] = x
 
         case 'RESTART':
-            r, = args
-            wealth = defaultdict(lambda: r)
+            x, = args
+            wealth = defaultdict(lambda x=x: x)
 
         case 'PRINT':
             i, = args
