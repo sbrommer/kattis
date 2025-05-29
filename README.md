@@ -1,61 +1,66 @@
 ![points distribution plot](https://github.com/sbrommer/kattis/blob/main/plot.png?raw=true)
 |Problem|Difficulty|Solution|
 |---|---|---|
-|[0-1 Sequences](https://open.kattis.com/problems/sequences)|5.7|[Python3](https://github.com/sbrommer/kattis/blob/main/sequences.py)|
+|[0-1 Sequences](https://open.kattis.com/problems/sequences)|5.6|[Python3](https://github.com/sbrommer/kattis/blob/main/sequences.py)|
 |[1's For All](https://open.kattis.com/problems/1sforall)|6.6|[Python3](https://github.com/sbrommer/kattis/blob/main/1sforall.py)|
-|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/1dfroggereasy.py)|
-|[2048](https://open.kattis.com/problems/2048)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/2048.py)|
+|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/1dfroggereasy.py)|
+|[10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)|4.9|[Python3](https://github.com/sbrommer/kattis/blob/main/10kindsofpeople.py)|
+|[2048](https://open.kattis.com/problems/2048)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/2048.py)|
 |[3D Printed Statues](https://open.kattis.com/problems/3dprinter)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/3dprinter.py)|
-|[4 thought](https://open.kattis.com/problems/4thought)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/4thought.py)|
-|[99 Problems](https://open.kattis.com/problems/99problems)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/99problems.py)|
-|[A Different Problem](https://open.kattis.com/problems/different)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/different.py)|
-|[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/cocktail.py)|
-|[A Musical Question](https://open.kattis.com/problems/amusicalquestion)|6.7|[Python3](https://github.com/sbrommer/kattis/blob/main/amusicalquestion.py)|
+|[4 thought](https://open.kattis.com/problems/4thought)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/4thought.py)|
+|[99 Problems](https://open.kattis.com/problems/99problems)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/99problems.py)|
+|[A Different Problem](https://open.kattis.com/problems/different)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/different.py)|
+|[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/cocktail.py)|
+|[A Musical Question](https://open.kattis.com/problems/amusicalquestion)|6.6|[Python3](https://github.com/sbrommer/kattis/blob/main/amusicalquestion.py)|
 |[A New Alphabet](https://open.kattis.com/problems/anewalphabet)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/anewalphabet.py)|
+|[A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/aprizenoonecanwin.py)|
 |[A Rational Sequence (Take 3)](https://open.kattis.com/problems/rationalsequence3)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/rationalsequence3.py)|
 |[A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/rationalsequence2.py)|
-|[A Real Challenge](https://open.kattis.com/problems/areal)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/areal.py)|
+|[A Real Challenge](https://open.kattis.com/problems/areal)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/areal.py)|
 |[A Second Opinion](https://open.kattis.com/problems/secondopinion)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/secondopinion.py)|
 |[A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/shortcuttowhat.py)|
 |[A Stack of Gold](https://open.kattis.com/problems/astackofgold)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/astackofgold.py)|
 |[A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/aterriblefortress.py)|
-|[A1 Paper](https://open.kattis.com/problems/a1paper)|4.4|[Python3](https://github.com/sbrommer/kattis/blob/main/a1paper.py)|
-|[ABC](https://open.kattis.com/problems/abc)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/abc.py)|
-|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/acm.py)|
+|[A1 Paper](https://open.kattis.com/problems/a1paper)|4.5|[Python3](https://github.com/sbrommer/kattis/blob/main/a1paper.py)|
+|[ABC](https://open.kattis.com/problems/abc)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/abc.py)|
+|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/acm.py)|
 |[ASCII Addition](https://open.kattis.com/problems/asciiaddition)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/asciiaddition.py)|
-|[ASCII Figure Rotation](https://open.kattis.com/problems/asciifigurerotation)|3.3|[Python3](https://github.com/sbrommer/kattis/blob/main/asciifigurerotation.py)|
+|[ASCII Figure Rotation](https://open.kattis.com/problems/asciifigurerotation)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/asciifigurerotation.py)|
 |[ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/asciikassi2.py)|
 |[ASCII kassi](https://open.kattis.com/problems/asciikassi)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/asciikassi.py)|
 |[Aaah!](https://open.kattis.com/problems/aaah)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/aaah.py)|
-|[Above Average](https://open.kattis.com/problems/aboveaverage)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/aboveaverage.py)|
-|[Accounting](https://open.kattis.com/problems/bokforing)|3.3|[Python3](https://github.com/sbrommer/kattis/blob/main/bokforing.py)|
+|[Above Average](https://open.kattis.com/problems/aboveaverage)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/aboveaverage.py)|
+|[Accounting](https://open.kattis.com/problems/bokforing)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/bokforing.py)|
 |[Add 'Em Up!](https://open.kattis.com/problems/addemup)|6.2|[Python3](https://github.com/sbrommer/kattis/blob/main/addemup.py)|
 |[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/addtwonumbers.py)|
 |[Adding Trouble](https://open.kattis.com/problems/addingtrouble)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/addingtrouble.py)|
 |[Afjörmun](https://open.kattis.com/problems/afjormun)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/afjormun.py)|
-|[Airfare Grants](https://open.kattis.com/problems/airfaregrants)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/airfaregrants.py)|
+|[Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/airconditioned.py)|
+|[Airfare Grants](https://open.kattis.com/problems/airfaregrants)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/airfaregrants.py)|
 |[Akcija](https://open.kattis.com/problems/akcija)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/akcija.py)|
 |[Akureyri](https://open.kattis.com/problems/akureyri)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/akureyri.py)|
 |[Aldur](https://open.kattis.com/problems/aldur)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/aldur.py)|
+|[Alex and Barb](https://open.kattis.com/problems/alexandbarb)|3.8|[Python3](https://github.com/sbrommer/kattis/blob/main/alexandbarb.py)|
 |[Alien Math](https://open.kattis.com/problems/alienmath)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/alienmath.py)|
 |[Alien Numbers](https://open.kattis.com/problems/aliennumbers)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/aliennumbers.py)|
-|[All Different Directions](https://open.kattis.com/problems/alldifferentdirections)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/alldifferentdirections.py)|
-|[All about that base](https://open.kattis.com/problems/allaboutthatbase)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/allaboutthatbase.py)|
+|[All Different Directions](https://open.kattis.com/problems/alldifferentdirections)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/alldifferentdirections.py)|
+|[All about that base](https://open.kattis.com/problems/allaboutthatbase)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/allaboutthatbase.py)|
 |[Almost Perfect](https://open.kattis.com/problems/almostperfect)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/almostperfect.py)|
-|[Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)|3.5|[Python3](https://github.com/sbrommer/kattis/blob/main/alphabetanimals.py)|
+|[Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)|3.4|[Python3](https://github.com/sbrommer/kattis/blob/main/alphabetanimals.py)|
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/alphabetspam.py)|
 |[Alphabetical Aristocrats](https://open.kattis.com/problems/alphabeticalaristocrats)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/alphabeticalaristocrats.py)|
 |[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/artichoke.py)|
 |[Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/ameriskur.py)|
+|[An Industrial Spy](https://open.kattis.com/problems/industrialspy)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/industrialspy.py)|
 |[Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/anotherbrick.py)|
 |[Another Candies](https://open.kattis.com/problems/anothercandies)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/anothercandies.py)|
 |[Anthony and Diablo](https://open.kattis.com/problems/anthonyanddiablo)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/anthonyanddiablo.py)|
 |[Anti-Palindrome](https://open.kattis.com/problems/antipalindrome)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/antipalindrome.py)|
 |[Ants](https://open.kattis.com/problems/ants)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/ants.py)|
-|[Any Pythagorean Triple](https://open.kattis.com/problems/anypythagorean)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/anypythagorean.py)|
+|[Any Pythagorean Triple](https://open.kattis.com/problems/anypythagorean)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/anypythagorean.py)|
 |[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/apaxiaaans.py)|
 |[Are You Listening?](https://open.kattis.com/problems/areyoulistening)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/areyoulistening.py)|
-|[Arithmetic](https://open.kattis.com/problems/arithmetic)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/arithmetic.py)|
+|[Arithmetic](https://open.kattis.com/problems/arithmetic)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/arithmetic.py)|
 |[Arithmetic Decoding](https://open.kattis.com/problems/arithmeticdecoding)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/arithmeticdecoding.py)|
 |[Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/arithmeticfunctions.cpp)|
 |[Arm Coordination](https://open.kattis.com/problems/armcoordination)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/armcoordination.py)|
@@ -67,10 +72,10 @@
 |[Attendance](https://open.kattis.com/problems/attendance2)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/attendance2.py)|
 |[Autori](https://open.kattis.com/problems/autori)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/autori.py)|
 |[Average Character](https://open.kattis.com/problems/averagecharacter)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/averagecharacter.py)|
-|[Average Speed](https://open.kattis.com/problems/averagespeed)|3.5|[Python3](https://github.com/sbrommer/kattis/blob/main/averagespeed.py)|
+|[Average Speed](https://open.kattis.com/problems/averagespeed)|3.6|[Python3](https://github.com/sbrommer/kattis/blob/main/averagespeed.py)|
 |[Avion](https://open.kattis.com/problems/avion)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/avion.py)|
-|[Awkward Party](https://open.kattis.com/problems/awkwardparty)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/awkwardparty.py)|
-|[Babelfish](https://open.kattis.com/problems/babelfish)|3.3|[Python3](https://github.com/sbrommer/kattis/blob/main/babelfish.py)|
+|[Awkward Party](https://open.kattis.com/problems/awkwardparty)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/awkwardparty.py)|
+|[Babelfish](https://open.kattis.com/problems/babelfish)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/babelfish.py)|
 |[Baby Bites](https://open.kattis.com/problems/babybites)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/babybites.py)|
 |[Babylonian Numbers](https://open.kattis.com/problems/babylonian)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/babylonian.py)|
 |[Backspace](https://open.kattis.com/problems/backspace)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/backspace.py)|
@@ -79,7 +84,7 @@
 |[Bannorð](https://open.kattis.com/problems/bannord)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/bannord.py)|
 |[Barcelona](https://open.kattis.com/problems/barcelona)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/barcelona.py)|
 |[Bard](https://open.kattis.com/problems/bard)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/bard.py)|
-|[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)|3.7|[Python3](https://github.com/sbrommer/kattis/blob/main/basicprogramming2.py)|
+|[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)|3.5|[Python3](https://github.com/sbrommer/kattis/blob/main/basicprogramming2.py)|
 |[Basic Remains](https://open.kattis.com/problems/basicremains)|3.5|[Python3](https://github.com/sbrommer/kattis/blob/main/basicremains.py)|
 |[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/basketballoneonone.py)|
 |[Batter Up](https://open.kattis.com/problems/batterup)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/batterup.py)|
@@ -92,12 +97,12 @@
 |[Bergur](https://open.kattis.com/problems/bergur)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/bergur.py)|
 |[Best Compression Ever](https://open.kattis.com/problems/bestcompression)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/bestcompression.py)|
 |[Best Compromise](https://open.kattis.com/problems/compromise)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/compromise.py)|
-|[Best Relay Team](https://open.kattis.com/problems/bestrelayteam)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/bestrelayteam.py)|
+|[Best Relay Team](https://open.kattis.com/problems/bestrelayteam)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/bestrelayteam.py)|
 |[Besta gjöfin](https://open.kattis.com/problems/bestagjofin)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/bestagjofin.py)|
 |[Betting](https://open.kattis.com/problems/betting)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/betting.py)|
 |[Bijele](https://open.kattis.com/problems/bijele)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/bijele.py)|
 |[Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/biladlyklabord.py)|
-|[Billiard](https://open.kattis.com/problems/billiard)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/billiard.py)|
+|[Billiard](https://open.kattis.com/problems/billiard)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/billiard.py)|
 |[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/fodelsedagsmemorisering.py)|
 |[Bishops](https://open.kattis.com/problems/bishops)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/bishops.py)|
 |[Bit by Bit](https://open.kattis.com/problems/bitbybit)|4.3|[Python3](https://github.com/sbrommer/kattis/blob/main/bitbybit.py)|
@@ -121,15 +126,16 @@
 |[Bridges and Tunnels](https://open.kattis.com/problems/bridgesandtunnels)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/bridgesandtunnels.py)|
 |[Broken Swords](https://open.kattis.com/problems/brokenswords)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/brokenswords.py)|
 |[Brýr](https://open.kattis.com/problems/bryr)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/bryr.py)|
+|[Buildin' Fences](https://open.kattis.com/problems/buildinfences)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/buildinfences.py)|
 |[Building Highways](https://open.kattis.com/problems/buildinghighways)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/buildinghighways.py)|
 |[Building Pyramids](https://open.kattis.com/problems/pyramids)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/pyramids.py)|
 |[Buka](https://open.kattis.com/problems/buka)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/buka.py)|
-|[Bus](https://open.kattis.com/problems/bus)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/bus.py)|
+|[Bus](https://open.kattis.com/problems/bus)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/bus.py)|
 |[Bus Assignment](https://open.kattis.com/problems/busassignment)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/busassignment.py)|
 |[Bus Numbers](https://open.kattis.com/problems/busnumbers)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/busnumbers.py)|
-|[Bus Ticket](https://open.kattis.com/problems/busticket)|4.5|[Python3](https://github.com/sbrommer/kattis/blob/main/busticket.py)|
+|[Bus Ticket](https://open.kattis.com/problems/busticket)|4.4|[Python3](https://github.com/sbrommer/kattis/blob/main/busticket.py)|
 |[Busy Schedule](https://open.kattis.com/problems/busyschedule)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/busyschedule.py)|
-|[CD](https://open.kattis.com/problems/cd)|3.9|[Python3](https://github.com/sbrommer/kattis/blob/main/cd.py)|
+|[CD](https://open.kattis.com/problems/cd)|4.0|[Python3](https://github.com/sbrommer/kattis/blob/main/cd.py)|
 |[CPR Number](https://open.kattis.com/problems/cprnummer)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/cprnummer.py)|
 |[Call for Problems](https://open.kattis.com/problems/callforproblems)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/callforproblems.py)|
 |[Canadians, eh?](https://open.kattis.com/problems/canadianseh)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/canadianseh.py)|
@@ -147,7 +153,7 @@
 |[Charting Progress](https://open.kattis.com/problems/chartingprogress)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/chartingprogress.py)|
 |[Checking For Correctness](https://open.kattis.com/problems/checkingforcorrectness)|4.1|[Python3](https://github.com/sbrommer/kattis/blob/main/checkingforcorrectness.py)|
 |[Chocolate Division](https://open.kattis.com/problems/chocolatedivision)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/chocolatedivision.py)|
-|[Chugging](https://open.kattis.com/problems/chugging)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/chugging.py)|
+|[Chugging](https://open.kattis.com/problems/chugging)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/chugging.py)|
 |[Cinema Crowds](https://open.kattis.com/problems/cinema)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/cinema.py)|
 |[Cinema Crowds 2](https://open.kattis.com/problems/cinema2)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/cinema2.py)|
 |[Circuit Math](https://open.kattis.com/problems/circuitmath)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/circuitmath.py)|
@@ -162,14 +168,14 @@
 |[Combination Lock](https://open.kattis.com/problems/combinationlock)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/combinationlock.py)|
 |[Completing the Square](https://open.kattis.com/problems/completingthesquare)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/completingthesquare.py)|
 |[Composed Rhythms](https://open.kattis.com/problems/composedrhythms)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/composedrhythms.py)|
-|[Compound Words](https://open.kattis.com/problems/compoundwords)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/compoundwords.py)|
+|[Compound Words](https://open.kattis.com/problems/compoundwords)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/compoundwords.py)|
 |[Concatenate](https://open.kattis.com/problems/skeytasaman)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/skeytasaman.py)|
 |[Conformity](https://open.kattis.com/problems/conformity)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/conformity.py)|
 |[Connect-N](https://open.kattis.com/problems/connectn)|3.6|[Python3](https://github.com/sbrommer/kattis/blob/main/connectn.py)|
 |[Conquest Campaign](https://open.kattis.com/problems/conquestcampaign)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/conquestcampaign.py)|
 |[Contingency Planning](https://open.kattis.com/problems/contingencyplanning)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/contingencyplanning.py)|
 |[Contrarianism](https://open.kattis.com/problems/andmal)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/andmal.py)|
-|[Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/convexpolygonarea.py)|
+|[Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/convexpolygonarea.py)|
 |[Cooking Water](https://open.kattis.com/problems/cookingwater)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/cookingwater.py)|
 |[Cornhusker](https://open.kattis.com/problems/cornhusker)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/cornhusker.py)|
 |[Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/cosmicpathoptimization.py)|
@@ -182,7 +188,7 @@
 |[Course Scheduling](https://open.kattis.com/problems/coursescheduling)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/coursescheduling.py)|
 |[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/conundrum.py)|
 |[Cudoviste](https://open.kattis.com/problems/cudoviste)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/cudoviste.py)|
-|[Curvy Little Bottles](https://open.kattis.com/problems/bottles)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/bottles.py)|
+|[Curvy Little Bottles](https://open.kattis.com/problems/bottles)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/bottles.py)|
 |[Cut in Line](https://open.kattis.com/problems/cutinline)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/cutinline.py)|
 |[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/cutthenegativity.py)|
 |[Cypher Decypher](https://open.kattis.com/problems/cypherdecypher)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/cypherdecypher.py)|
@@ -207,7 +213,7 @@
 |[Diggy Hole](https://open.kattis.com/problems/grafaholur)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/grafaholur.py)|
 |[Digit Product](https://open.kattis.com/problems/sifferprodukt)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/sifferprodukt.py)|
 |[Digit Swap](https://open.kattis.com/problems/digitswap)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/digitswap.py)|
-|[Digital display](https://open.kattis.com/problems/display)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/display.py)|
+|[Digital display](https://open.kattis.com/problems/display)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/display.py)|
 |[Ding Dong Ditch](https://open.kattis.com/problems/dingdongditch)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/dingdongditch.py)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)|3.9|[Python3](https://github.com/sbrommer/kattis/blob/main/downtime.py)|
 |[Dishonest Lottery](https://open.kattis.com/problems/dishonestlottery)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/dishonestlottery.py)|
@@ -219,8 +225,8 @@
 |[Draga Frá](https://open.kattis.com/problems/dragafra)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/dragafra.py)|
 |[Drink Menu](https://open.kattis.com/problems/drinkmenu)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/drinkmenu.py)|
 |[Drinking Song](https://open.kattis.com/problems/drinkingsong)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/drinkingsong.py)|
-|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/drunkvigenere.py)|
-|[Early Winter](https://open.kattis.com/problems/earlywinter)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/earlywinter.py)|
+|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/drunkvigenere.py)|
+|[Early Winter](https://open.kattis.com/problems/earlywinter)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/earlywinter.py)|
 |[Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/saxophone.py)|
 |[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/echoechoecho.py)|
 |[Eeny Meeny](https://open.kattis.com/problems/eenymeeny)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/eenymeeny.py)|
@@ -239,9 +245,9 @@
 |[Endurvinnsla](https://open.kattis.com/problems/endurvinnsla)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/endurvinnsla.py)|
 |[Enjoy Your Repast!](https://open.kattis.com/problems/verditheradgodu)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/verditheradgodu.py)|
 |[EpigDanceOff](https://open.kattis.com/problems/epigdanceoff)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/epigdanceoff.py)|
-|[Equal Shots](https://open.kattis.com/problems/equalshots)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/equalshots.py)|
+|[Equal Shots](https://open.kattis.com/problems/equalshots)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/equalshots.py)|
 |[Erase Securely](https://open.kattis.com/problems/erase)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/erase.py)|
-|[Espresso!](https://open.kattis.com/problems/espresso)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/espresso.py)|
+|[Espresso!](https://open.kattis.com/problems/espresso)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/espresso.py)|
 |[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/estimatingtheareaofacircle.py)|
 |[Ethanol](https://open.kattis.com/problems/ethanol)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/ethanol.py)|
 |[Euclid's Algorithm](https://open.kattis.com/problems/euclidsalgorithm)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/euclidsalgorithm.py)|
@@ -259,7 +265,7 @@
 |[Fading Wind](https://open.kattis.com/problems/fadingwind)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/fadingwind.py)|
 |[Faktor](https://open.kattis.com/problems/faktor)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/faktor.py)|
 |[Falling Apart](https://open.kattis.com/problems/fallingapart)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/fallingapart.py)|
-|[Falling Mugs](https://open.kattis.com/problems/falling)|3.7|[Python3](https://github.com/sbrommer/kattis/blob/main/falling.py)|
+|[Falling Mugs](https://open.kattis.com/problems/falling)|3.6|[Python3](https://github.com/sbrommer/kattis/blob/main/falling.py)|
 |[Falling Snow](https://open.kattis.com/problems/fallingsnow2)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/fallingsnow2.py)|
 |[False Sense of Security](https://open.kattis.com/problems/falsesecurity)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/falsesecurity.py)|
 |[Fast Food Prizes](https://open.kattis.com/problems/fastfood)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/fastfood.py)|
@@ -267,7 +273,7 @@
 |[Field Trip](https://open.kattis.com/problems/fieldtrip)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/fieldtrip.py)|
 |[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/fiftyshades.py)|
 |[File Extension](https://open.kattis.com/problems/nafnauki)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/nafnauki.py)|
-|[Filip](https://open.kattis.com/problems/filip)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/filip.py)|
+|[Filip](https://open.kattis.com/problems/filip)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/filip.py)|
 |[Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/fimmtudagstilbod.py)|
 |[Final Exam](https://open.kattis.com/problems/finalexam2)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/finalexam2.py)|
 |[Finding An A](https://open.kattis.com/problems/findingana)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/findingana.py)|
@@ -276,26 +282,26 @@
 |[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/fizzbuzz.py)|
 |[Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/fjoldibokstafa.py)|
 |[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/flatbokuveisla.py)|
-|[Flexible Spaces](https://open.kattis.com/problems/flexible)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/flexible.py)|
+|[Flexible Spaces](https://open.kattis.com/problems/flexible)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/flexible.py)|
 |[Flip Flow](https://open.kattis.com/problems/flipflow)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/flipflow.py)|
-|[Flow Layout](https://open.kattis.com/problems/flowlayout)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/flowlayout.py)|
+|[Flow Layout](https://open.kattis.com/problems/flowlayout)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/flowlayout.py)|
 |[Flying Safely](https://open.kattis.com/problems/flyingsafely)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/flyingsafely.py)|
 |[Flýtibaka](https://open.kattis.com/problems/flytibaka)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/flytibaka.py)|
-|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/forcedchoice.py)|
+|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/forcedchoice.py)|
 |[Fountain](https://open.kattis.com/problems/fontan)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/fontan.py)|
 |[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/fifa.py)|
 |[Free Food](https://open.kattis.com/problems/freefood)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/freefood.py)|
 |[Friday the 13th](https://open.kattis.com/problems/friday)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/friday.py)|
 |[Frosh Week](https://open.kattis.com/problems/froshweek2)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/froshweek2.py)|
-|[Frumtölur](https://open.kattis.com/problems/frumtolur)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/frumtolur.py)|
+|[Frumtölur](https://open.kattis.com/problems/frumtolur)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/frumtolur.py)|
 |[Fullkomin mylla](https://open.kattis.com/problems/mylla)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/mylla.py)|
-|[Fun House](https://open.kattis.com/problems/funhouse)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/funhouse.py)|
+|[Fun House](https://open.kattis.com/problems/funhouse)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/funhouse.py)|
 |[Functional Fun](https://open.kattis.com/problems/functionalfun)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/functionalfun.py)|
 |[Fyrirtækjanafn](https://open.kattis.com/problems/fyrirtaekjanafn)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/fyrirtaekjanafn.py)|
 |[Färgrobot](https://open.kattis.com/problems/fargrobot)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/fargrobot.py)|
 |[GCD](https://open.kattis.com/problems/gcd)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/gcd.py)|
 |[GCVWR](https://open.kattis.com/problems/gcvwr)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/gcvwr.py)|
-|[Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)|5.0|[Python3](https://github.com/sbrommer/kattis/blob/main/gcpc.py)|
+|[Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)|5.1|[Python3](https://github.com/sbrommer/kattis/blob/main/gcpc.py)|
 |[Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/gandalfsspell.py)|
 |[Gene Block](https://open.kattis.com/problems/geneblock)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/geneblock.py)|
 |[Generalized FizzBuzz](https://open.kattis.com/problems/generalizedfizzbuzz)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/generalizedfizzbuzz.py)|
@@ -304,8 +310,8 @@
 |[Getting Wood](https://open.kattis.com/problems/gettingwood)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/gettingwood.py)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/ghostleg.py)|
 |[Gin Fizz](https://open.kattis.com/problems/ginfizz)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/ginfizz.py)|
-|[Git Good](https://open.kattis.com/problems/gitgood)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/gitgood.py)|
-|[GlitchBot](https://open.kattis.com/problems/glitchbot)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/glitchbot.py)|
+|[Git Good](https://open.kattis.com/problems/gitgood)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/gitgood.py)|
+|[GlitchBot](https://open.kattis.com/problems/glitchbot)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/glitchbot.py)|
 |[Gluttonous George](https://open.kattis.com/problems/goggi)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/goggi.py)|
 |[Goat Rope](https://open.kattis.com/problems/goatrope)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/goatrope.py)|
 |[Going to School](https://open.kattis.com/problems/skolvagen)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/skolvagen.py)|
@@ -317,7 +323,7 @@
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/greedilyincreasing.py)|
 |[Greedy Polygons](https://open.kattis.com/problems/greedypolygons)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/greedypolygons.py)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/greetings2.py)|
-|[Grid](https://open.kattis.com/problems/grid)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/grid.py)|
+|[Grid](https://open.kattis.com/problems/grid)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/grid.py)|
 |[Growling Gears](https://open.kattis.com/problems/growlinggears)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/growlinggears.py)|
 |[Guess Who](https://open.kattis.com/problems/guesswho)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/guesswho.py)|
 |[Guess the Number](https://open.kattis.com/problems/guess)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/guess.py)|
@@ -336,7 +342,7 @@
 |[Hay Points](https://open.kattis.com/problems/haypoints)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/haypoints.py)|
 |[Head Guard](https://open.kattis.com/problems/headguard)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/headguard.py)|
 |[Heart Rate](https://open.kattis.com/problems/heartrate)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/heartrate.py)|
-|[Height Ordering](https://open.kattis.com/problems/height)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/height.py)|
+|[Height Ordering](https://open.kattis.com/problems/height)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/height.py)|
 |[Heimavinna](https://open.kattis.com/problems/heimavinna)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/heimavinna.py)|
 |[Heimilisverk](https://open.kattis.com/problems/heimilisverk)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/heimilisverk.py)|
 |[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/heirsdilemma.py)|
@@ -356,7 +362,7 @@
 |[Hitastig](https://open.kattis.com/problems/hitastig)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/hitastig.py)|
 |[Hitting the Targets](https://open.kattis.com/problems/hittingtargets)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/hittingtargets.py)|
 |[Hnappasetningaskipti](https://open.kattis.com/problems/hnappasetningaskipti)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/hnappasetningaskipti.py)|
-|[Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/apaxianparent.py)|
+|[Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/apaxianparent.py)|
 |[Hornrétt](https://open.kattis.com/problems/hornrett)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/hornrett.py)|
 |[Hot Hike](https://open.kattis.com/problems/hothike)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/hothike.py)|
 |[House of Cards](https://open.kattis.com/problems/houseofcards)|3.6|[Python3](https://github.com/sbrommer/kattis/blob/main/houseofcards.py)|
@@ -370,9 +376,11 @@
 |[I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/guessthedatastructure.py)|
 |[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/everywhere.py)|
 |[ICPC Awards](https://open.kattis.com/problems/icpcawards)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/icpcawards.py)|
+|[ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/icpcteamselection.py)|
 |[Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/maptiles2.py)|
 |[Illuminated City](https://open.kattis.com/problems/stadiljus)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/stadiljus.py)|
-|[Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/illuminatispotti.py)|
+|[Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/illuminatispotti.py)|
+|[Image Decoding](https://open.kattis.com/problems/imagedecoding)|3.8|[Python3](https://github.com/sbrommer/kattis/blob/main/imagedecoding.py)|
 |[Image Processing](https://open.kattis.com/problems/imageprocessing)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/imageprocessing.py)|
 |[Imperial Measurement](https://open.kattis.com/problems/measurement)|2.6|[Python3](https://github.com/sbrommer/kattis/blob/main/measurement.py)|
 |[Inflation](https://open.kattis.com/problems/inflation)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/inflation.py)|
@@ -380,14 +388,14 @@
 |[International Dates](https://open.kattis.com/problems/internationaldates)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/internationaldates.py)|
 |[Interval Scheduling](https://open.kattis.com/problems/intervalscheduling)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/intervalscheduling.py)|
 |[Intuitive Elements](https://open.kattis.com/problems/intuitiveelements)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/intuitiveelements.py)|
-|[Is Y a Vowel?](https://open.kattis.com/problems/isyavowel)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/isyavowel.py)|
+|[Is Y a Vowel?](https://open.kattis.com/problems/isyavowel)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/isyavowel.py)|
 |[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/isithalloween.py)|
 |[Islands](https://open.kattis.com/problems/islands3)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/islands3.py)|
 |[It's Hip to Be Square](https://open.kattis.com/problems/hiptobesquare)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/hiptobesquare.py)|
 |[Jabuke](https://open.kattis.com/problems/jabuke)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/jabuke.py)|
 |[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/jackolanternjuxtaposition.py)|
 |[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/janitortroubles.py)|
-|[Jazz it Up!](https://open.kattis.com/problems/jazzitup)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/jazzitup.py)|
+|[Jazz it Up!](https://open.kattis.com/problems/jazzitup)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/jazzitup.py)|
 |[Jewelry Box](https://open.kattis.com/problems/jewelrybox)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/jewelrybox.py)|
 |[Job Expenses](https://open.kattis.com/problems/jobexpenses)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/jobexpenses.py)|
 |[Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/jointjogjam.py)|
@@ -404,7 +412,7 @@
 |[Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/keysphonewallet.py)|
 |[Keywords](https://open.kattis.com/problems/keywords)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/keywords.py)|
 |[Kiki Boba](https://open.kattis.com/problems/kikiboba)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/kikiboba.py)|
-|[Kitten on a Tree](https://open.kattis.com/problems/kitten)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/kitten.py)|
+|[Kitten on a Tree](https://open.kattis.com/problems/kitten)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/kitten.py)|
 |[Kleptography](https://open.kattis.com/problems/kleptography)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/kleptography.py)|
 |[Knight Packing](https://open.kattis.com/problems/knightpacking)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/knightpacking.py)|
 |[Knot Knowledge](https://open.kattis.com/problems/knotknowledge)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/knotknowledge.py)|
@@ -415,7 +423,7 @@
 |[Kveðja](https://open.kattis.com/problems/kvedja)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/kvedja.py)|
 |[Kínahvísl](https://open.kattis.com/problems/kinahvisl)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/kinahvisl.py)|
 |[Ladder](https://open.kattis.com/problems/ladder)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/ladder.py)|
-|[Lamps](https://open.kattis.com/problems/lamps)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/lamps.py)|
+|[Lamps](https://open.kattis.com/problems/lamps)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/lamps.py)|
 |[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/laptopsticker.py)|
 |[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/lastfactorialdigit.py)|
 |[Lawn Mower](https://open.kattis.com/problems/lawnmower)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/lawnmower.py)|
@@ -425,20 +433,20 @@
 |[Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/lessvsfewer.py)|
 |[Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/leynithjonusta.py)|
 |[License to Launch](https://open.kattis.com/problems/licensetolaunch)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/licensetolaunch.py)|
-|[Line Them Up](https://open.kattis.com/problems/lineup)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/lineup.py)|
+|[Line Them Up](https://open.kattis.com/problems/lineup)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/lineup.py)|
 |[Lines Per Hour](https://open.kattis.com/problems/linesperhour)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/linesperhour.py)|
-|[Liðaskipting](https://open.kattis.com/problems/lidaskipting)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/lidaskipting.py)|
+|[Liðaskipting](https://open.kattis.com/problems/lidaskipting)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/lidaskipting.py)|
 |[Locust Locus](https://open.kattis.com/problems/locustlocus)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/locustlocus.py)|
 |[Logic Functions](https://open.kattis.com/problems/logicfunctions)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/logicfunctions.cpp)|
 |[Logo](https://open.kattis.com/problems/logo)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/logo.py)|
 |[Loo Rolls](https://open.kattis.com/problems/loorolls)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/loorolls.py)|
 |[Lost Lineup](https://open.kattis.com/problems/lostlineup)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/lostlineup.py)|
 |[Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/lubbilaerir.py)|
-|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/luhnchecksum.py)|
+|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/luhnchecksum.py)|
 |[Lyklagangriti](https://open.kattis.com/problems/lyklagangriti)|3.8|[Python3](https://github.com/sbrommer/kattis/blob/main/lyklagangriti.py)|
 |[Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/laegdyfirlandinu.py)|
 |[Léttasta verkefnið?](https://open.kattis.com/problems/lettasta)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/lettasta.py)|
-|[Magic Trick](https://open.kattis.com/problems/magictrick)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/magictrick.py)|
+|[Magic Trick](https://open.kattis.com/problems/magictrick)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/magictrick.py)|
 |[Making A Meowth](https://open.kattis.com/problems/makingameowth)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/makingameowth.py)|
 |[Mancala](https://open.kattis.com/problems/mancala)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/mancala.py)|
 |[Marko](https://open.kattis.com/problems/marko)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/marko.py)|
@@ -465,15 +473,15 @@
 |[Moderate Pace](https://open.kattis.com/problems/moderatepace)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/moderatepace.py)|
 |[Modulo](https://open.kattis.com/problems/modulo)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/modulo.py)|
 |[Monopoly](https://open.kattis.com/problems/monopol)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/monopol.py)|
-|[Moscow Dream](https://open.kattis.com/problems/moscowdream)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/moscowdream.py)|
+|[Moscow Dream](https://open.kattis.com/problems/moscowdream)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/moscowdream.py)|
 |[Mosquito Multiplication](https://open.kattis.com/problems/mosquito)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/mosquito.py)|
 |[Moving Day](https://open.kattis.com/problems/movingday)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/movingday.py)|
 |[MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/mrcodeformatgrader.py)|
 |[Mult!](https://open.kattis.com/problems/mult)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/mult.py)|
 |[Multiplication](https://open.kattis.com/problems/multiplications)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/multiplications.py)|
 |[Mumble Rap](https://open.kattis.com/problems/mumblerap)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/mumblerap.py)|
-|[Music Your Way](https://open.kattis.com/problems/musicyourway)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/musicyourway.py)|
-|[Musical Notation](https://open.kattis.com/problems/musicalnotation)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/musicalnotation.py)|
+|[Music Your Way](https://open.kattis.com/problems/musicyourway)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/musicyourway.py)|
+|[Musical Notation](https://open.kattis.com/problems/musicalnotation)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/musicalnotation.py)|
 |[Musical Scales](https://open.kattis.com/problems/musicalscales)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/musicalscales.py)|
 |[Mylla](https://open.kattis.com/problems/mylla2)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/mylla2.py)|
 |[Mæting](https://open.kattis.com/problems/maeting)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/maeting.py)|
@@ -482,17 +490,17 @@
 |[N-sum](https://open.kattis.com/problems/nsum)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/nsum.py)|
 |[NOP](https://open.kattis.com/problems/nop)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/nop.py)|
 |[Nafnagift](https://open.kattis.com/problems/nafnagift)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/nafnagift.py)|
-|[Name Generation](https://open.kattis.com/problems/namegeneration)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/namegeneration.py)|
+|[Name Generation](https://open.kattis.com/problems/namegeneration)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/namegeneration.py)|
 |[Namnsdag](https://open.kattis.com/problems/namnsdag)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/namnsdag.py)|
-|[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/nastyhacks.py)|
+|[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/nastyhacks.py)|
 |[Natjecanje](https://open.kattis.com/problems/natjecanje)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/natjecanje.py)|
 |[Nimionese](https://open.kattis.com/problems/nimionese)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/nimionese.py)|
-|[Nine Knights](https://open.kattis.com/problems/nineknights)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/nineknights.py)|
+|[Nine Knights](https://open.kattis.com/problems/nineknights)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/nineknights.py)|
 |[No Duplicates](https://open.kattis.com/problems/nodup)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/nodup.py)|
-|[No Thanks!](https://open.kattis.com/problems/nothanks)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/nothanks.py)|
+|[No Thanks!](https://open.kattis.com/problems/nothanks)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/nothanks.py)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/numberfun.py)|
-|[Numbers On a Tree](https://open.kattis.com/problems/numbertree)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/numbertree.py)|
-|[Ocean's Anti-11](https://open.kattis.com/problems/anti11)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/anti11.py)|
+|[Numbers On a Tree](https://open.kattis.com/problems/numbertree)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/numbertree.py)|
+|[Ocean's Anti-11](https://open.kattis.com/problems/anti11)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/anti11.py)|
 |[Odd Echo](https://open.kattis.com/problems/oddecho)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/oddecho.py)|
 |[Odd Gnome](https://open.kattis.com/problems/oddgnome)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/oddgnome.py)|
 |[Odd Man Out](https://open.kattis.com/problems/oddmanout)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/oddmanout.py)|
@@ -507,15 +515,15 @@
 |[Ordered Problem Set](https://open.kattis.com/problems/orderedproblemset)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/orderedproblemset.py)|
 |[Ordinals](https://open.kattis.com/problems/ordinals)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/ordinals.py)|
 |[Overdraft](https://open.kattis.com/problems/overdraft)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/overdraft.py)|
-|[Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking)|3.1|[Python3](https://github.com/sbrommer/kattis/blob/main/pachydermpeanutpacking.py)|
+|[Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking)|3.0|[Python3](https://github.com/sbrommer/kattis/blob/main/pachydermpeanutpacking.py)|
 |[Packagemanager](https://open.kattis.com/problems/pakethanterare)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/pakethanterare.py)|
 |[Pallatölur](https://open.kattis.com/problems/pallatolur)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/pallatolur.py)|
 |[Paradox With Averages](https://open.kattis.com/problems/averageseasy)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/averageseasy.py)|
 |[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/averageshard.py)|
-|[Parking](https://open.kattis.com/problems/parking2)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/parking2.py)|
+|[Parking](https://open.kattis.com/problems/parking2)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/parking2.py)|
 |[Parking](https://open.kattis.com/problems/parking)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/parking.py)|
 |[Pascal](https://open.kattis.com/problems/pascal)|3.8|[Python3](https://github.com/sbrommer/kattis/blob/main/pascal.py)|
-|[Passport Dates](https://open.kattis.com/problems/vegabrefadagsetningar)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/vegabrefadagsetningar.py)|
+|[Passport Dates](https://open.kattis.com/problems/vegabrefadagsetningar)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/vegabrefadagsetningar.py)|
 |[Password Hacking](https://open.kattis.com/problems/password)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/password.py)|
 |[Patchwork](https://open.kattis.com/problems/patchwork)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/patchwork.py)|
 |[Patuljci](https://open.kattis.com/problems/patuljci)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/patuljci.py)|
@@ -524,7 +532,7 @@
 |[Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/peachpowderpolygon.py)|
 |[Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/pebblesolitaire.py)|
 |[Peg](https://open.kattis.com/problems/peg)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/peg.py)|
-|[Pencil Crayons](https://open.kattis.com/problems/pencilcrayons)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/pencilcrayons.py)|
+|[Pencil Crayons](https://open.kattis.com/problems/pencilcrayons)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/pencilcrayons.py)|
 |[Peningar](https://open.kattis.com/problems/peningar)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/peningar.py)|
 |[Peragrams](https://open.kattis.com/problems/peragrams)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/peragrams.py)|
 |[Perket](https://open.kattis.com/problems/perket)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/perket.py)|
@@ -538,7 +546,7 @@
 |[Pinni Frændi](https://open.kattis.com/problems/pinnifraendi)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/pinnifraendi.py)|
 |[Pizza Crust](https://open.kattis.com/problems/pizza2)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/pizza2.py)|
 |[Pizzubestun](https://open.kattis.com/problems/pizzubestun)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/pizzubestun.py)|
-|[Planina](https://open.kattis.com/problems/planina)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/planina.py)|
+|[Planina](https://open.kattis.com/problems/planina)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/planina.py)|
 |[Planting Trees](https://open.kattis.com/problems/plantingtrees)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/plantingtrees.py)|
 |[Plants vs Bad Guys](https://open.kattis.com/problems/pvbg)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/pvbg.py)|
 |[Platforme](https://open.kattis.com/problems/platforme)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/platforme.py)|
@@ -546,14 +554,14 @@
 |[Poker Hand](https://open.kattis.com/problems/pokerhand)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/pokerhand.py)|
 |[Polygon Area](https://open.kattis.com/problems/polygonarea)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/polygonarea.py)|
 |[Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/polymul1.py)|
-|[Popular Vote](https://open.kattis.com/problems/vote)|2.8|[Python3](https://github.com/sbrommer/kattis/blob/main/vote.py)|
+|[Popular Vote](https://open.kattis.com/problems/vote)|2.7|[Python3](https://github.com/sbrommer/kattis/blob/main/vote.py)|
 |[Popularity Contest](https://open.kattis.com/problems/popularitycontest)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/popularitycontest.py)|
 |[Pot](https://open.kattis.com/problems/pot)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/pot.py)|
 |[Powers of 2 (Easy)](https://open.kattis.com/problems/powersof2easy)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/powersof2easy.py)|
 |[Preludes](https://open.kattis.com/problems/chopin)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/chopin.py)|
-|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/prerequisites.py)|
+|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/prerequisites.py)|
 |[Primary Register](https://open.kattis.com/problems/register)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/register.py)|
-|[Prime Path](https://open.kattis.com/problems/primepath)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/primepath.py)|
+|[Prime Path](https://open.kattis.com/problems/primepath)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/primepath.py)|
 |[Printing Costs](https://open.kattis.com/problems/printingcosts)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/printingcosts.py)|
 |[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/prjonamynstur.py)|
 |[Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/pobudget.py)|
@@ -562,7 +570,7 @@
 |[Prozor](https://open.kattis.com/problems/prozor)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/prozor.py)|
 |[Prsteni](https://open.kattis.com/problems/prsteni)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/prsteni.py)|
 |[Prva](https://open.kattis.com/problems/prva)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/prva.py)|
-|[Ptice](https://open.kattis.com/problems/ptice)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/ptice.py)|
+|[Ptice](https://open.kattis.com/problems/ptice)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/ptice.py)|
 |[Púsluspil](https://open.kattis.com/problems/pusluspil)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/pusluspil.py)|
 |[Quadrant Selection](https://open.kattis.com/problems/quadrant)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/quadrant.py)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/qaly.py)|
@@ -594,7 +602,7 @@
 |[Ruffians](https://open.kattis.com/problems/ruffians)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/ruffians.py)|
 |[Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/runlengthencodingrun.py)|
 |[Röknet](https://open.kattis.com/problems/roknet)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/roknet.py)|
-|[SMIL](https://open.kattis.com/problems/smil)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/smil.py)|
+|[SMIL](https://open.kattis.com/problems/smil)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/smil.py)|
 |[Sannvirði](https://open.kattis.com/problems/sannvirdi)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/sannvirdi.py)|
 |[Sauna](https://open.kattis.com/problems/sauna)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/sauna.py)|
 |[Saving Daylight](https://open.kattis.com/problems/savingdaylight)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/savingdaylight.py)|
@@ -602,13 +610,14 @@
 |[Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/scalingrecipe.py)|
 |[Scaling Recipes](https://open.kattis.com/problems/recipes)|2.5|[Python3](https://github.com/sbrommer/kattis/blob/main/recipes.py)|
 |[School Spirit](https://open.kattis.com/problems/schoolspirit)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/schoolspirit.py)|
+|[Search Wizard](https://open.kattis.com/problems/searchwizard)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/searchwizard.py)|
 |[Secret Message](https://open.kattis.com/problems/secretmessage)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/secretmessage.py)|
 |[Secure Doors](https://open.kattis.com/problems/securedoors)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/securedoors.py)|
 |[Semafori](https://open.kattis.com/problems/semafori)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/semafori.py)|
 |[Server](https://open.kattis.com/problems/server)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/server.py)|
 |[Set!](https://open.kattis.com/problems/set)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/set.py)|
 |[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/sevenwonders.py)|
-|[Shandy](https://open.kattis.com/problems/shandy)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/shandy.py)|
+|[Shandy](https://open.kattis.com/problems/shandy)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/shandy.py)|
 |[Shattered Cake](https://open.kattis.com/problems/shatteredcake)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/shatteredcake.py)|
 |[Sheba's Amoebas](https://open.kattis.com/problems/amoebas)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/amoebas.py)|
 |[Shopaholic](https://open.kattis.com/problems/shopaholic)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/shopaholic.py)|
@@ -646,7 +655,7 @@
 |[Speeding](https://open.kattis.com/problems/speeding)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/speeding.py)|
 |[Spelling Bee](https://open.kattis.com/problems/spellingbee)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/spellingbee.py)|
 |[Spritt](https://open.kattis.com/problems/spritt)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/spritt.py)|
-|[Square Peg](https://open.kattis.com/problems/squarepeg)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/squarepeg.py)|
+|[Square Peg](https://open.kattis.com/problems/squarepeg)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/squarepeg.py)|
 |[Stacking Cups](https://open.kattis.com/problems/cups)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/cups.py)|
 |[Stafur](https://open.kattis.com/problems/stafur)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/stafur.py)|
 |[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/zanzibar.py)|
@@ -667,7 +676,7 @@
 |[Superyatzy](https://open.kattis.com/problems/superyatzy)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/superyatzy.py)|
 |[Sweet Dreams](https://open.kattis.com/problems/sweetdreams)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/sweetdreams.py)|
 |[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/symmetricorder.py)|
-|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/synchronizinglists.py)|
+|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/synchronizinglists.py)|
 |[Sóttkví](https://open.kattis.com/problems/sottkvi)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/sottkvi.py)|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/t9spelling.py)|
 |[Tai's formula](https://open.kattis.com/problems/taisformula)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/taisformula.py)|
@@ -675,15 +684,16 @@
 |[Take Two Stones](https://open.kattis.com/problems/twostones)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/twostones.py)|
 |[Taking Inventory](https://open.kattis.com/problems/takinginventory)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/takinginventory.py)|
 |[Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/takkfyrirmig.py)|
-|[Takkar](https://open.kattis.com/problems/takkar)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/takkar.py)|
+|[Takkar](https://open.kattis.com/problems/takkar)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/takkar.py)|
 |[Tarifa](https://open.kattis.com/problems/tarifa)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/tarifa.py)|
 |[Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|2.9|[Python3](https://github.com/sbrommer/kattis/blob/main/teacherevaluation.py)|
 |[Telja](https://open.kattis.com/problems/telja)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/telja.py)|
 |[Tenis](https://open.kattis.com/problems/tenis)|3.9|[Python3](https://github.com/sbrommer/kattis/blob/main/tenis.py)|
 |[Test Drive](https://open.kattis.com/problems/testdrive)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/testdrive.py)|
+|[Testing LEDs](https://open.kattis.com/problems/testingleds)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/testingleds.py)|
 |[Tetration](https://open.kattis.com/problems/tetration)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/tetration.py)|
 |[Tetris](https://open.kattis.com/problems/tetris)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/tetris.py)|
-|[Texture Analysis](https://open.kattis.com/problems/textureanalysis)|4.0|[Python3](https://github.com/sbrommer/kattis/blob/main/textureanalysis.py)|
+|[Texture Analysis](https://open.kattis.com/problems/textureanalysis)|3.9|[Python3](https://github.com/sbrommer/kattis/blob/main/textureanalysis.py)|
 |[Thanos](https://open.kattis.com/problems/thanos)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/thanos.py)|
 |[The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/humancannonball2.py)|
 |[The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/thebackslashproblem.py)|
@@ -694,20 +704,20 @@
 |[The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/thegrandadventure.py)|
 |[The Key to Cryptography](https://open.kattis.com/problems/keytocrypto)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/keytocrypto.py)|
 |[The Last Problem](https://open.kattis.com/problems/thelastproblem)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/thelastproblem.py)|
-|[The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/thendaysofchristmas.py)|
+|[The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/thendaysofchristmas.py)|
 |[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/owlandfox.py)|
-|[The Plank](https://open.kattis.com/problems/theplank)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/theplank.py)|
+|[The Plank](https://open.kattis.com/problems/theplank)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/theplank.py)|
 |[The Triangle Factory](https://open.kattis.com/problems/triangelfabriken)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/triangelfabriken.py)|
-|[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/thisaintyourgrandpascheckerboard.py)|
+|[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/thisaintyourgrandpascheckerboard.py)|
 |[Thoring test](https://open.kattis.com/problems/thoringtest)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/thoringtest.py)|
 |[Three Powers](https://open.kattis.com/problems/threepowers)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/threepowers.py)|
 |[Three in a Row](https://open.kattis.com/problems/treirad)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/treirad.py)|
 |[Til hamingju](https://open.kattis.com/problems/tilhamingju)|1.0|[Python3](https://github.com/sbrommer/kattis/blob/main/tilhamingju.py)|
 |[Timebomb](https://open.kattis.com/problems/timebomb)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/timebomb.py)|
 |[Title Cost](https://open.kattis.com/problems/titlecost)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/titlecost.py)|
-|[ToLower](https://open.kattis.com/problems/tolower)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/tolower.py)|
+|[ToLower](https://open.kattis.com/problems/tolower)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/tolower.py)|
 |[Tok Tik](https://open.kattis.com/problems/toktik)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/toktik.py)|
-|[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/touchscreenkeyboard.py)|
+|[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/touchscreenkeyboard.py)|
 |[Tower Construction](https://open.kattis.com/problems/tornbygge)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/tornbygge.py)|
 |[Track Smoothing](https://open.kattis.com/problems/tracksmoothing)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/tracksmoothing.py)|
 |[Train Passengers](https://open.kattis.com/problems/trainpassengers)|3.2|[Python3](https://github.com/sbrommer/kattis/blob/main/trainpassengers.py)|
@@ -718,12 +728,12 @@
 |[Trapizza](https://open.kattis.com/problems/trapizza)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/trapizza.py)|
 |[Tri](https://open.kattis.com/problems/tri)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/tri.py)|
 |[Triangle Area](https://open.kattis.com/problems/triarea)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/triarea.py)|
-|[Triangle Ornaments](https://open.kattis.com/problems/triangleornaments)|2.4|[Python3](https://github.com/sbrommer/kattis/blob/main/triangleornaments.py)|
+|[Triangle Ornaments](https://open.kattis.com/problems/triangleornaments)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/triangleornaments.py)|
 |[Triangles of a Square](https://open.kattis.com/problems/trianglesofasquare)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/trianglesofasquare.py)|
 |[Trik](https://open.kattis.com/problems/trik)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/trik.py)|
 |[Triple Sevens](https://open.kattis.com/problems/triplesevens)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/triplesevens.py)|
-|[Triple Texting](https://open.kattis.com/problems/tripletexting)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/tripletexting.py)|
-|[Truls' Troubles](https://open.kattis.com/problems/trulstrubbel)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/trulstrubbel.py)|
+|[Triple Texting](https://open.kattis.com/problems/tripletexting)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/tripletexting.py)|
+|[Truls' Troubles](https://open.kattis.com/problems/trulstrubbel)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/trulstrubbel.py)|
 |[Turn It Up!](https://open.kattis.com/problems/skruop)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/skruop.py)|
 |[Two-sum](https://open.kattis.com/problems/twosum)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/twosum.py)|
 |[Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/tolvunarfraedingartelja.py)|
@@ -731,10 +741,11 @@
 |[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/ultimatebinarywatch.py)|
 |[Umferð](https://open.kattis.com/problems/umferd)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/umferd.py)|
 |[Un-bear-able Zoo](https://open.kattis.com/problems/zoo)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/zoo.py)|
-|[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/undeadoralive.py)|
+|[Undead or Alive](https://open.kattis.com/problems/undeadoralive)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/undeadoralive.py)|
 |[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/unlockpattern.py)|
 |[Uppröðun](https://open.kattis.com/problems/upprodun)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/upprodun.py)|
 |[Vacuumba](https://open.kattis.com/problems/vacuumba)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/vacuumba.py)|
+|[Vandalism](https://open.kattis.com/problems/vandalism)|1.3|[Python3](https://github.com/sbrommer/kattis/blob/main/vandalism.py)|
 |[Vauvau](https://open.kattis.com/problems/vauvau)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/vauvau.py)|
 |[Veci](https://open.kattis.com/problems/veci)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/veci.py)|
 |[Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/vefthjonatjon.py)|
@@ -744,15 +755,15 @@
 |[Video Speedup](https://open.kattis.com/problems/videospeedup)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/videospeedup.py)|
 |[Vinir](https://open.kattis.com/problems/vinir)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/vinir.py)|
 |[Virus](https://open.kattis.com/problems/virus3)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/virus3.py)|
-|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|1.2|[Python3](https://github.com/sbrommer/kattis/blob/main/vidsnuningur.py)|
-|[Volim](https://open.kattis.com/problems/volim)|1.7|[Python3](https://github.com/sbrommer/kattis/blob/main/volim.py)|
+|[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/vidsnuningur.py)|
+|[Volim](https://open.kattis.com/problems/volim)|1.6|[Python3](https://github.com/sbrommer/kattis/blob/main/volim.py)|
 |[Wake up call](https://open.kattis.com/problems/wakeupcall)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/wakeupcall.py)|
-|[Warehouse](https://open.kattis.com/problems/warehouse)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/warehouse.py)|
+|[Warehouse](https://open.kattis.com/problems/warehouse)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/warehouse.py)|
 |[Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)|2.2|[Python3](https://github.com/sbrommer/kattis/blob/main/hailstone.py)|
 |[Watchdog](https://open.kattis.com/problems/watchdog)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/watchdog.py)|
 |[Water Journal](https://open.kattis.com/problems/waterjournal)|2.3|[Python3](https://github.com/sbrommer/kattis/blob/main/waterjournal.py)|
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/weakvertices.py)|
-|[Welcome Sign](https://open.kattis.com/problems/welcomesign)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/welcomesign.py)|
+|[Welcome Sign](https://open.kattis.com/problems/welcomesign)|2.0|[Python3](https://github.com/sbrommer/kattis/blob/main/welcomesign.py)|
 |[Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/welcomeeasy.py)|
 |[What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)|1.9|[Python3](https://github.com/sbrommer/kattis/blob/main/whatdoesthefoxsay.py)|
 |[Which Number Kind Is It?](https://open.kattis.com/problems/whichnumberkindisit2)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/whichnumberkindisit2.py)|
@@ -762,7 +773,7 @@
 |[Yoda](https://open.kattis.com/problems/yoda)|2.1|[Python3](https://github.com/sbrommer/kattis/blob/main/yoda.py)|
 |[Zamka](https://open.kattis.com/problems/zamka)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/zamka.py)|
 |[Zigzag](https://open.kattis.com/problems/zigzag2)|4.7|[Python3](https://github.com/sbrommer/kattis/blob/main/zigzag2.py)|
-|[Zoom](https://open.kattis.com/problems/zoom)|1.5|[Python3](https://github.com/sbrommer/kattis/blob/main/zoom.py)|
+|[Zoom](https://open.kattis.com/problems/zoom)|1.4|[Python3](https://github.com/sbrommer/kattis/blob/main/zoom.py)|
 |[kcuD dlanoD](https://open.kattis.com/problems/kcuddlanod)|1.8|[Python3](https://github.com/sbrommer/kattis/blob/main/kcuddlanod.py)|
 |[Á leið í bíó](https://open.kattis.com/problems/aleidibio)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/aleidibio.py)|
 |[Óvissa](https://open.kattis.com/problems/ovissa)|1.1|[Python3](https://github.com/sbrommer/kattis/blob/main/ovissa.py)|
